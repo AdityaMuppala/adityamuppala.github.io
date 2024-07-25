@@ -21,7 +21,7 @@ repository               : "adityamuppala.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : Aditya.jpg
+  avatar           : "Aditya.jpg"
   name             : "Aditya Varma Muppala"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student at the University of Michigan, Ann Arbor"
