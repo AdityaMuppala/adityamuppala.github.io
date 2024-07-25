@@ -5,8 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
+# Research
 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+This page contains information about my research.
+
+## Antennas
+
+Here is some text about antennas. For more information, check out [this link](https://example.com).
