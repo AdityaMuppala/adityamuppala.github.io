@@ -147,6 +147,8 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
+    max-width: 100%; // or a specific width like 300px
+    overflow-wrap: break-word; // Ensures long words break properly
   }
 }
 
