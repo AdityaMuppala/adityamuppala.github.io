@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-This page contains information about my research. Links to design files are also included. Page is still under construction.
+My research lies at the intersection of applied electromagnetics, integrated circuits and signal processing, with a focus on millimeter-wave imaging. I also like to explore other areas every now and then. A list of my peer-reviewed publications are available at [this link](https://scholar.google.com/citations?user=TtDtCaoAAAAJ&hl=enLinks). A bried over-view of different projects I have worked on is given below. Useful links to design files are also included. 
 
 # Antennas
 
