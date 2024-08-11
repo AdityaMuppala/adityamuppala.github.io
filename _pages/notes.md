@@ -5,7 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-# YouTube tutorials
+# YouTube [tutorials](https://www.youtube.com/@adityavarmamuppala437/videos)
 
 1. [FMCW Radar](https://adityamuppala.github.io/assets/YouTube_Notes/FMCW_YouTube.pdf)
 2. [Stepped Frequency Radar](https://adityamuppala.github.io/assets/YouTube_Notes/Stepped_Frequency_YouTube.pdf)
