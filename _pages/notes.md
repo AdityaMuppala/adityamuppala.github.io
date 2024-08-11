@@ -14,3 +14,4 @@ author_profile: true
 5. [MIMO Radar](https://adityamuppala.github.io/assets/YouTube_Notes/MIMO_Radar_YouTube.pdf)
 6. [SAR Reconstruction - Range Migration, Omega-K](https://adityamuppala.github.io/assets/YouTube_Notes/SAR_RMA_YouTube.pdf)
 7. [MIMO Reconstruction - Range Migration](https://adityamuppala.github.io/assets/YouTube_Notes/MIMO_RMA_YouTube.pdf)
+8. [Method of Stationary Phase](https://adityamuppala.github.io/assets/YouTube_Notes/MOSP_YouTube.pdf)
