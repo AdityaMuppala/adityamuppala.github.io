@@ -6,7 +6,7 @@ permalink: /teaching/
 
 This page contains information about my teaching. Currently, I am mostly teaching through my [YouTube channel](https://www.youtube.com/@adityavarmamuppala437). In the past I have been a Graduate Student Instructor (GSI) at the University of Michigan for an undergraduate level Circuits Analysis Design class (EECS 215) and a graduate level Microwave Measurements class (EECS 533). My current goal with the YouTube channel is to make advanced topics in Applied Electromagnetics and Integrated Circuits more accessible to researchers who may not have easy access to this information otherwise. 
 
-# YouTube Playlists
+# YouTube Tutorials
 
 ## Radar Imaging ([link](https://www.youtube.com/watch?v=3CRFXfRZxZ8&list=PL9Trid0A4Da1BWEiZc-_coDZmFxgSagKL&pp=iAQB))
 
