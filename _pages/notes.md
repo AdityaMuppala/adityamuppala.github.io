@@ -20,3 +20,4 @@ author_profile: true
 ## Circuit Theory
 
 1. [Oscillator Theory - Limit Cycles](https://adityamuppala.github.io/assets/YouTube_Notes/MMIC_Limit_Cycles.pdf)
+2. [Oscillator Theory - Impulse Sensitivity Function](https://adityamuppala.github.io/assets/YouTube_Notes/Oscillators_ISF_model.pdf)
