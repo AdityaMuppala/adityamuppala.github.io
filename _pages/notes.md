@@ -21,3 +21,4 @@ author_profile: true
 
 1. [Oscillator Theory - Limit Cycles](https://adityamuppala.github.io/assets/YouTube_Notes/MMIC_Limit_Cycles.pdf)
 2. [Oscillator Theory - Impulse Sensitivity Function](https://adityamuppala.github.io/assets/YouTube_Notes/Oscillators_ISF_model.pdf)
+3. [Oscillator Theory - Phase Noise (ISF model)](https://adityamuppala.github.io/assets/YouTube_Notes/Phase_Noise_ISF_Model.pdf)
