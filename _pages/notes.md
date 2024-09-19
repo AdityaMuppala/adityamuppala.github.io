@@ -23,3 +23,5 @@ author_profile: true
 2. [Oscillator Theory - Impulse Sensitivity Function](https://adityamuppala.github.io/assets/YouTube_Notes/Oscillators_ISF_model.pdf)
 3. [Oscillator Theory - Phase Noise (ISF model)](https://adityamuppala.github.io/assets/YouTube_Notes/Phase_Noise_ISF_Model.pdf)
 4. [Cross Coupled Oscillator - Analysis](https://adityamuppala.github.io/assets/YouTube_Notes/Cross_Coupled_Theory.pdf)
+5. [Cross Coupled Oscillator - Tail Current Effects](https://adityamuppala.github.io/assets/YouTube_Notes/CCO_TailCurrent.pdf)
+6. [ISF Simulation in Cadence](https://adityamuppala.github.io/assets/YouTube_Notes/ISF_sim.pdf)
