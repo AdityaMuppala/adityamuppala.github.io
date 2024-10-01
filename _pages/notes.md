@@ -25,3 +25,6 @@ author_profile: true
 4. [Cross Coupled Oscillator - Analysis](https://adityamuppala.github.io/assets/YouTube_Notes/Cross_Coupled_Theory.pdf)
 5. [Cross Coupled Oscillator - Tail Current Effects](https://adityamuppala.github.io/assets/YouTube_Notes/CCO_TailCurrent.pdf)
 6. [ISF Simulation in Cadence](https://adityamuppala.github.io/assets/YouTube_Notes/ISF_sim.pdf)
+7. [Oscillator Theory - Nonlinear Model Example](https://adityamuppala.github.io/assets/YouTube_Notes/Nonlinear_example.pdf)
+8. [Oscillator Theory - State Transition Matrix and Floquet Theorem](https://adityamuppala.github.io/assets/YouTube_Notes/STM_FT.pdf)
+9. [Oscillator Theory - Perturbative Projection Vector](https://adityamuppala.github.io/assets/YouTube_Notes/PPV_Theory_Notes.pdf)
