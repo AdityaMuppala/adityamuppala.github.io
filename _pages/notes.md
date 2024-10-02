@@ -27,4 +27,4 @@ author_profile: true
 6. [ISF Simulation in Cadence](https://adityamuppala.github.io/assets/YouTube_Notes/ISF_sim.pdf)
 7. [Oscillator Theory - Nonlinear Model Example](https://adityamuppala.github.io/assets/YouTube_Notes/Nonlinear_example.pdf)
 8. [Oscillator Theory - State Transition Matrix and Floquet Theorem](https://adityamuppala.github.io/assets/YouTube_Notes/STM_FT.pdf)
-9. [Oscillator Theory - Perturbative Projection Vector](https://adityamuppala.github.io/assets/YouTube_Notes/PPV_Theory_Notes.pdf)
+9. [Oscillator Theory - Perturbation Projection Vector](https://adityamuppala.github.io/assets/YouTube_Notes/PPV_Theory_Notes.pdf)
