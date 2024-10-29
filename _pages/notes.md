@@ -5,8 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-# YouTube [Tutorials](https://www.youtube.com/@adityavarmamuppala437/videos)
-
+# Notes from my YouTube [Channel](https://www.youtube.com/@adityavarmamuppala437/videos)
 ## Radar Imaging
 1. [FMCW Radar](https://adityamuppala.github.io/assets/YouTube_Notes/FMCW_YouTube.pdf)
 2. [Stepped Frequency Radar](https://adityamuppala.github.io/assets/YouTube_Notes/Stepped_Frequency_YouTube.pdf)
@@ -28,3 +27,13 @@ author_profile: true
 7. [Oscillator Theory - Nonlinear Model Example](https://adityamuppala.github.io/assets/YouTube_Notes/Nonlinear_example.pdf)
 8. [Oscillator Theory - State Transition Matrix and Floquet Theorem](https://adityamuppala.github.io/assets/YouTube_Notes/STM_FT.pdf)
 9. [Oscillator Theory - Perturbation Projection Vector](https://adityamuppala.github.io/assets/YouTube_Notes/PPV_Theory_Notes.pdf)
+
+# Notes from courses and books
+
+1. [Advanced Linear Algebra 1](https://adityamuppala.github.io/assets/YouTube_Notes/MIMO_Radar_YouTube.pdf)
+2. [Advanced Linear Algebra 2](https://adityamuppala.github.io/assets/YouTube_Notes/SAR_RMA_YouTube.pdf)
+3. [Antennas 1](https://adityamuppala.github.io/assets/YouTube_Notes/FMCW_YouTube.pdf)
+4. [Antennas 2](https://adityamuppala.github.io/assets/YouTube_Notes/Stepped_Frequency_YouTube.pdf)
+5. [Applied Complex Analysis and PDEs](https://adityamuppala.github.io/assets/YouTube_Notes/SAR_BP_TDC_YouTube.pdf)
+6. [Classical Optics](https://adityamuppala.github.io/assets/YouTube_Notes/Pulsed_YouTube.pdf)
+7. [Semiconductor Optoelectronics](https://adityamuppala.github.io/assets/YouTube_Notes/MIMO_RMA_YouTube.pdf)
