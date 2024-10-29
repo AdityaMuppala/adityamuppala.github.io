@@ -30,10 +30,10 @@ author_profile: true
 
 # Notes from courses and books
 
-1. [Advanced Linear Algebra 1](https://adityamuppala.github.io/assets/YouTube_Notes/MIMO_Radar_YouTube.pdf)
-2. [Advanced Linear Algebra 2](https://adityamuppala.github.io/assets/YouTube_Notes/SAR_RMA_YouTube.pdf)
-3. [Antennas 1](https://adityamuppala.github.io/assets/YouTube_Notes/FMCW_YouTube.pdf)
-4. [Antennas 2](https://adityamuppala.github.io/assets/YouTube_Notes/Stepped_Frequency_YouTube.pdf)
-5. [Applied Complex Analysis and PDEs](https://adityamuppala.github.io/assets/YouTube_Notes/SAR_BP_TDC_YouTube.pdf)
-6. [Classical Optics](https://adityamuppala.github.io/assets/YouTube_Notes/Pulsed_YouTube.pdf)
-7. [Semiconductor Optoelectronics](https://adityamuppala.github.io/assets/YouTube_Notes/MIMO_RMA_YouTube.pdf)
+1. [Advanced Linear Algebra 1](https://adityamuppala.github.io/assets/Course_Notes/Advanced_Linear_Algebra.pdf)
+2. [Advanced Linear Algebra 2](https://adityamuppala.github.io/assets/Course_Notes/Advanced_Linear_Algebra_2.pdf)
+3. [Antennas 1](https://adityamuppala.github.io/assets/YouTube_Notes/Course_Notes/Antennas_1.pdf)
+4. [Antennas 2](https://adityamuppala.github.io/assets/YouTube_Notes/Course_Notes/Antennas_2.pdf)
+5. [Applied Complex Analysis and PDEs](https://adityamuppala.github.io/assets/Course_Notes/Complex_Analysis_and_PDE.pdf)
+6. [Classical Optics](https://adityamuppala.github.io/assets/Course_Notes/Classical_Optics.pdf)
+7. [Semiconductor Optoelectronics](https://adityamuppala.github.io/assets/Course_Notes/Semiconductor_Optoelectronics.pdf)
