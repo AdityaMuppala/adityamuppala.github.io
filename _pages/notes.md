@@ -32,8 +32,8 @@ author_profile: true
 
 1. [Advanced Linear Algebra 1](https://adityamuppala.github.io/assets/Notes_Courses/Advanced_Linear_Algebra_1.pdf)
 2. [Advanced Linear Algebra 2](https://adityamuppala.github.io/assets/Notes_Courses/Advanced_Linear_Algebra_2.pdf)
-3. [Antennas 1](https://adityamuppala.github.io/assets/YouTube_Notes/Notes_Courses/Antennas_1.pdf)
-4. [Antennas 2](https://adityamuppala.github.io/assets/YouTube_Notes/Notes_Courses/Antennas_2.pdf)
+3. [Antennas 1](https://adityamuppala.github.io/assets/Notes_Courses/Antennas_1.pdf)
+4. [Antennas 2](https://adityamuppala.github.io/assets/Notes_Courses/Antennas_2.pdf)
 5. [Applied Complex Analysis and PDEs](https://adityamuppala.github.io/assets/Notes_Courses/Complex_Analysis_and_PDE.pdf)
 6. [Classical Optics](https://adityamuppala.github.io/assets/Notes_Courses/Classical_Optics.pdf)
 7. [Semiconductor Optoelectronics](https://adityamuppala.github.io/assets/Notes_Courses/Semiconductor_Optoelectronics.pdf)
