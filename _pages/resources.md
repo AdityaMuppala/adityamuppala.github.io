@@ -7,7 +7,7 @@ author_profile: true
 
 Links to various design files and codes can be found here. 
 
-## Cadence - HFSS Co-design Environment
+## Cadence <-> HFSS Co-design Environment
 [TECH File, AMAT File, Excel File and HFSS Layers File](https://drive.google.com/file/d/1t6NSAoJyecMixxWz2D-BhlAQQK7elYIm/view?usp=sharing)
 
 [Cadence hotkeys](https://miscircuitos.com/cadence-keyboard-shortcuts-keybinds-go-faster/)
