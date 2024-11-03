@@ -5,8 +5,8 @@ permalink: /notes/
 author_profile: true
 ---
 
-# Notes from my YouTube [Channel](https://www.youtube.com/@adityavarmamuppala437/videos)
-## Radar Imaging
+## Notes from my [YouTube Channel](https://www.youtube.com/@adityavarmamuppala437/videos)
+### Radar Imaging
 1. [FMCW Radar](https://adityamuppala.github.io/assets/Notes_YouTube/FMCW_YouTube.pdf)
 2. [Stepped Frequency Radar](https://adityamuppala.github.io/assets/Notes_YouTube/Stepped_Frequency_YouTube.pdf)
 3. [Pulsed Radar](https://adityamuppala.github.io/assets/Notes_YouTube/Pulsed_YouTube.pdf)
@@ -16,7 +16,7 @@ author_profile: true
 7. [MIMO Reconstruction - Range Migration](https://adityamuppala.github.io/assets/Notes_YouTube/MIMO_RMA_YouTube.pdf)
 8. [Method of Stationary Phase](https://adityamuppala.github.io/assets/Notes_YouTube/MOSP_YouTube.pdf)
 
-## Circuit Theory
+### Circuit Theory
 
 1. [Oscillator Theory - Limit Cycles](https://adityamuppala.github.io/assets/Notes_YouTube/MMIC_Limit_Cycles.pdf)
 2. [Oscillator Theory - Impulse Sensitivity Function](https://adityamuppala.github.io/assets/Notes_YouTube/Oscillators_ISF_model.pdf)
@@ -28,7 +28,7 @@ author_profile: true
 8. [Oscillator Theory - State Transition Matrix and Floquet Theorem](https://adityamuppala.github.io/assets/Notes_YouTube/STM_FT.pdf)
 9. [Oscillator Theory - Perturbation Projection Vector](https://adityamuppala.github.io/assets/Notes_YouTube/PPV_Theory_Notes.pdf)
 
-# Notes from courses and books
+## Notes from courses and books
 
 1. [Advanced Linear Algebra 1](https://adityamuppala.github.io/assets/Notes_Courses/Advanced_Linear_Algebra_1.pdf)
 2. [Advanced Linear Algebra 2](https://adityamuppala.github.io/assets/Notes_Courses/Advanced_Linear_Algebra_2.pdf)
