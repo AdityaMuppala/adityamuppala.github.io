@@ -31,7 +31,7 @@ author_profile: true
 11. [Oscillator Theory - Injection Locking](https://adityamuppala.github.io/assets/Notes_YouTube/Injection_Locking_YouTube.pdf)
 12. [Oscillator Theory - Adler's Equation Derivation](https://adityamuppala.github.io/assets/Notes_YouTube/Adlers_Equation_YouTube.pdf)
 
-## Notes from courses and books
+## Notes from Courses and Books
 
 1. [Advanced Linear Algebra 1](https://adityamuppala.github.io/assets/Notes_Courses/Advanced_Linear_Algebra_1.pdf)
 2. [Advanced Linear Algebra 2](https://adityamuppala.github.io/assets/Notes_Courses/Advanced_Linear_Algebra_2.pdf)
