@@ -27,6 +27,9 @@ author_profile: true
 7. [Oscillator Theory - Nonlinear Model Example](https://adityamuppala.github.io/assets/Notes_YouTube/Nonlinear_example.pdf)
 8. [Oscillator Theory - State Transition Matrix and Floquet Theorem](https://adityamuppala.github.io/assets/Notes_YouTube/STM_FT.pdf)
 9. [Oscillator Theory - Perturbation Projection Vector](https://adityamuppala.github.io/assets/Notes_YouTube/PPV_Theory_Notes.pdf)
+10. [Fast ISF Simulation from PXF/PSS](https://adityamuppala.github.io/assets/Notes_YouTube/ISF_from_PXF.pdf)
+11. [Oscillator Theory - Injection Locking](https://adityamuppala.github.io/assets/Notes_YouTube/Injection_Locking_YouTube.pdf)
+12. [Oscillator Theory - Adler's Equation Derivation](https://adityamuppala.github.io/assets/Notes_YouTube/Adlers_Equation_YouTube.pdf)
 
 ## Notes from courses and books
 
