@@ -18,4 +18,4 @@ I noticed that not a lot of videos exist on design and simulation of more advanc
 
 ## Millimeter-Wave Integrated Circuits ([link](https://www.youtube.com/watch?v=X9LaoKDRmzA&list=PL9Trid0A4Da1lh5hRCjpYMCDADtVXA9qU&pp=iAQB))
 
-This is probably the series I am most excited about. The end goal here is to show someone from a non-IC background how to start from scratch and design a chip that can be taped-out. Right now I am trying to figure out a way to access a PDK that I can share openly and that is why this series is on pause. But stay tuned!
+This is probably the series I am most excited about. The end goal here is to show someone from a non-IC background how to start from scratch and design a chip that can be taped-out. I use the Cadence Generic PDK to design circuits and also do some layouts. I try to cover some theory along with the designs.
