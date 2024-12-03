@@ -25,3 +25,7 @@ Links to various design files and codes can be found here.
 ## Circuits - MATLAB Codes
 
 1. ISF From PSS/PXF - [MATLAB Code](https://drive.google.com/file/d/1ZV3HDTmRAbNpXkeOafgGrVqtVSOpf8Dy/view?usp=sharing)
+
+## Experiments
+
+1. Instrument Control Codes - [download link](https://drive.google.com/file/d/1LtSkh6JHbX2eK9r3zwYh17-CpuCiCkQE/view?usp=sharing)
