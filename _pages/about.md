@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Under construction
+Under construction. Meanwhile, take a look at my research, teaching, resources and notes.
