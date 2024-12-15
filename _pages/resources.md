@@ -10,7 +10,8 @@ Links to various design files and codes can be found here.
 ## Cadence <-> HFSS Co-design Environment
 
 1. [Cadence Hotkeys](https://adityamuppala.github.io/assets/Notes_YouTube/Cadence_Hotkeys.pdf)
-2. [TECH File, AMAT File, Excel File and HFSS Layers File](https://drive.google.com/file/d/1t6NSAoJyecMixxWz2D-BhlAQQK7elYIm/view?usp=sharing)
+2. [HFSS Hotkeys](https://adityamuppala.github.io/assets/Notes_YouTube/HFSS_Hotkeys.pdf)
+3. [TECH File, AMAT File, Excel File and HFSS Layers File](https://drive.google.com/file/d/1t6NSAoJyecMixxWz2D-BhlAQQK7elYIm/view?usp=sharing)
 
 ## Cadence GDS Files
 
