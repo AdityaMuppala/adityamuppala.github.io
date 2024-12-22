@@ -43,7 +43,7 @@ author_profile: true
 4. [Antennas 2](https://adityamuppala.github.io/assets/Notes_Courses/Antennas_2.pdf)
 5. [Boundary Value Problems](https://adityamuppala.github.io/assets/Notes_Courses/BVP.pdf)
 6. [Classical Optics](https://adityamuppala.github.io/assets/Notes_Courses/Classical_Optics.pdf)
-7. [Complex Analysis and PDEs](https://adityamuppala.github.io/assets/Notes_Courses/Complex_Analysis_and_PDE.pdf)
+7. [Complex Analysis and PDEs](https://adityamuppala.github.io/assets/Notes_Courses/Complex_analysis_and_PDE.pdf)
 8. [Differentiable Manifolds 1](https://adityamuppala.github.io/assets/Notes_Courses/Diff_Manifolds_1.pdf)
 9. [Differentiable Manifolds 2](https://adityamuppala.github.io/assets/Notes_Courses/Diff_Manifolds_2.pdf)
 10. [Electromagnetic Theory](https://adityamuppala.github.io/assets/Notes_Courses/EM_Theory.pdf)
