@@ -40,7 +40,7 @@ author_profile: true
 1. [Advanced Linear Algebra 1](https://adityamuppala.github.io/assets/Notes_Courses/Advanced_Linear_Algebra_1.pdf)
 2. [Advanced Linear Algebra 2](https://adityamuppala.github.io/assets/Notes_Courses/Advanced_Linear_Algebra_2.pdf)
 3. [Analog Integrated Circuits](https://adityamuppala.github.io/assets/Notes_Courses/Analog_Integrated_Circuits.pdf)
-4. [Analog to Digital Converters](https://adityamuppala.github.io/assets/Notes_Courses/ADC.pdf)
+4. [Analog to Digital Converters](https://adityamuppala.github.io/assets/Notes_Courses/Analog_Digital_Converters.pdf)
 5. [Antennas 1](https://adityamuppala.github.io/assets/Notes_Courses/Antennas_1.pdf)
 6. [Antennas 2](https://adityamuppala.github.io/assets/Notes_Courses/Antennas_2.pdf)
 7. [Boundary Value Problems](https://adityamuppala.github.io/assets/Notes_Courses/BVP.pdf)
