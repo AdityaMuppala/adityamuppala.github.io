@@ -30,6 +30,7 @@ author_profile: true
 10. [Fast ISF Simulation from PXF/PSS](https://adityamuppala.github.io/assets/Notes_YouTube/ISF_from_PXF.pdf)
 11. [Oscillator Theory - Injection Locking](https://adityamuppala.github.io/assets/Notes_YouTube/Injection_Locking_YouTube.pdf)
 12. [Oscillator Theory - Adler's Equation Derivation](https://adityamuppala.github.io/assets/Notes_YouTube/Adlers_Equation_YouTube.pdf)
+13. [MOS Varactors](https://adityamuppala.github.io/assets/Notes_YouTube/Varactors_YouTube.pdf)
 
 ### Antennas & Arrays
 
