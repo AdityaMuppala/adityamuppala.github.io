@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Aditya Varma Muppala"
-description              : &description "Graduate student at the University of Michigan"
+description              : &description "Assistant Professor, UC Berkeley"
 url                      : https://adityamuppala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adityamuppala.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Aditya Varma Muppala"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student at the University of Michigan, Ann Arbor"
-  location         : # "Ann Arbor, Michigan"
-  employer         : # "University of Michigan"
+  location         : # "Berkeley, California"
+  employer         : # "University of California, Berkeley"
   uri              : # URL
-  email            : "mavarma@umich.edu" 
+  email            : "muppala@berkeley.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
