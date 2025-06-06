@@ -16,7 +16,7 @@ Links to various design files and codes can be found here.
 ## Cadence GDS Files
 
 1. [Layout Blocks v1](https://adityamuppala.github.io/assets/Cadence_GDS_Files/avm_All_Blocks.gds)
-2. [Cross Coupled VCO Layout](https://adityamuppala.github.io/assets/Cadence_GDS_Files/A07_CC_VCO_Cell.gds)
+2. [Cross Coupled VCO Layout](https://adityamuppala.github.io/assets/Cadence_GDS_Files/A08_CC_VCO_Cell.gds)
 
 ## HFSS Design Files
 
