@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor at UC Berkeley. Use this website to take a look at my research, teaching, resources and notes.
+I am an Assistant Professor at UC Berkeley. Use this website to take a look at my research, teaching, resources and notes.
