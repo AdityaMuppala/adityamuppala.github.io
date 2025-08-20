@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: EE 210
+title: EE 210 - Applied Electromagnetic Theory
 permalink: /teaching210/
 ---
-
-# EE 210 - Applied Electromagnetic Theory
 
 Supplementary [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EE210_Supplementary_Notes.pdf) 
 
