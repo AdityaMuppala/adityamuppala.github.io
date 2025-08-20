@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Teaching
-permalink: /teaching/
+title: EE 210
+permalink: /teaching210/
 ---
 
 Starting in Fall 2025 I will be teaching EE 210 - Applied Electromagnetic Theory at Berkeley. I also teach through my [YouTube channel](https://www.youtube.com/@adityavarmamuppala437), the details of which are [here](/youtube/).
@@ -57,7 +57,7 @@ I will record lectures separately and post them to my [YouTube channel](https://
 ---
 
 # Homework and Exams
-The first question in every homework will be to upload your notes from that week's lectures. This is to encourage you to take notes, which has been shown to improve learning and long-term retention. It is also an easy way to get points in the homework. You need not take notes in class during lecture, you can take them any time from the uploaded lecture notes or the lecture recordings. They can be handwritten or typed.
+The first part of every homework will be to upload your notes from that week's lectures. This is to encourage you to take notes, which has been shown to improve learning and long-term retention. It is also an easy way to get points in the homework. You need not take notes in class during lecture, you can take them any time from the uploaded lecture notes or the lecture recordings. They can be handwritten or typed.
 
 Additionally, there will be two to three problems and/or one CAD assignment in HFSS per week. I encourage collaboration, but every student must turn in individual homework and CAD solutions. I don't oppose the use of AI tools in solving homework problems. If you did use AI to solve part of a problem, say to solve an integral, be sure to cite it in your solution. There is no penalty for using AI, but remember that deep understanding comes from the confusion and frustration you go through when wrapping your head around a new problem or concept. If you don't put yourself through this, you will have learned nothing more than how to be a good prompt engineer, which is not the goal of this course.
 
