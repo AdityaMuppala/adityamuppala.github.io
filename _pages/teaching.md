@@ -10,13 +10,6 @@ Starting in Fall 2025 I will be teaching EE 210 - Applied Electromagnetic Theory
 
 Supplementary [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EE210_Supplementary_Notes.pdf) 
 
----
-layout: single
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
----
-
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
 - **Lectures:** Wed/Fri, 12:30–2:00 PM at Cory 293  
