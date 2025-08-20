@@ -4,7 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This page contains information about my teaching. Currently, I am mostly teaching through my [YouTube channel](https://www.youtube.com/@adityavarmamuppala437). In the past I have been a Graduate Student Instructor (GSI) at the University of Michigan for an undergraduate level Circuits Analysis Design class (EECS 215) and a graduate level Microwave Measurements class (EECS 533). My current goal with the YouTube channel is to make advanced topics in Applied Electromagnetics and Integrated Circuits more accessible to researchers who may not have easy access to this information otherwise. 
+Starting in Fall 2025 I will be teaching EE 210 - Applied Electromagnetic Theory at Berkeley. I also teach through my [YouTube channel](https://www.youtube.com/@adityavarmamuppala437). In the past I have been a Graduate Student Instructor (GSI) at the University of Michigan for an undergraduate level Circuits Analysis Design class (EECS 215) and a graduate level Microwave Measurements class (EECS 533). My current goal with the YouTube channel is to make advanced topics in Applied Electromagnetics and Integrated Circuits more accessible to researchers who may not have easy access to this information otherwise. 
+
+# EE 210 - Applied Electromagnetic Theory
+
+
+
 
 # YouTube Tutorials
 
