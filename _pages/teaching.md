@@ -52,7 +52,7 @@ To develop a strong foundation in electromagnetic theory for applications in ant
 ---
 
 # Lecture Recordings and Notes
-I will record lectures separately and post them to my [YouTube channel](https://www.youtube.com/@adityavarmamuppala). I prefer this since web capture on a whiteboard does not do a good job. Also, I will post the lecture notes to [my webpage](https://adityamuppala.github.io/teaching/) and to Canvas.
+I will record lectures separately and post them to my [YouTube channel](https://www.youtube.com/@adityavarmamuppala). I prefer this since web capture on a whiteboard does not do a good job. Also, I will post the lecture notes here and to Canvas as the course progresses.
 
 ---
 
