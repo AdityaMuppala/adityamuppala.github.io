@@ -48,7 +48,7 @@ To develop a strong foundation in electromagnetic theory for applications in ant
 ---
 
 # Lecture Recordings and Notes
-I will record lectures separately and post them to my [YouTube channel](https://www.youtube.com/@adityavarmamuppala). I prefer this since web capture on a whiteboard does not do a good job. Also, I will post the lecture notes here and to Canvas as the course progresses.
+I will record lectures separately and post them to my [YouTube channel](https://www.youtube.com/@adityavarmamuppala). I prefer this since web capture on a whiteboard does not do a good job. Class recordings will also be available through Kaltura capture. Also, I will post the lecture notes on my website and to bCourses as the course progresses.
 
 ---
 
@@ -72,3 +72,8 @@ Score 1 = 20% Notes + 40% HW (including CAD) + 20% Mid-term + 20% Final.
 Score 2 = 40% HW (including CAD) + 30% Mid-term + 30% Final.
 
 Final grade = max{Score 1, Score 2}
+
+# Accessibility and Mental Health Resources
+UHS offers mental health services to all UC Berkeley students regardless of insurance plan. Please see: [link](https://uhs.berkeley.edu/student-mental-health).
+
+If you feel any part of the course content is not easily accessible due to your individual needs please let me know. Here are some resources: [link 1](https://rtl.berkeley.edu/services-programs/ally-bcourses), [link 2](\href{https://rtl.berkeley.edu/rtl-learning-paths/digital-course-content-accessibility).
