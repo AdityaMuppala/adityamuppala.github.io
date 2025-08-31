@@ -4,7 +4,13 @@ title: EE 210 - Applied Electromagnetic Theory
 permalink: /teaching210/
 ---
 
-Supplementary [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EE210_Supplementary_Notes.pdf) 
+
+# Lecture Recordings and Notes
+
+0. Lecture 0: Course Introduction and Pre-requisites. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EE210_Supplementary_Notes.pdf) [Video](https://youtu.be/St917qVTUJo)
+1. Lecture 1: Maxwell's Equations in Differential and Integral Form. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM01.pdf) [Video](https://youtu.be/WmTQY7kPQe0)
+2. Lecture 2: Boundary Conditions and Constitutive Relations. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM02.pdf) [Video](https://youtu.be/UDKxtX8xlu0)
+
 
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
