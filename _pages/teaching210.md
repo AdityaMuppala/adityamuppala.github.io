@@ -7,9 +7,9 @@ permalink: /teaching210/
 
 # Lecture Recordings and Notes
 
-0. Course Introduction and Pre-requisites. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EE210_Supplementary_Notes.pdf) | [Video](https://youtu.be/St917qVTUJo)  
-1.  Maxwell's Equations in Differential and Integral Form. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM01.pdf) | [Video](https://youtu.be/WmTQY7kPQe0)  
-2.  Boundary Conditions and Constitutive Relations. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM02.pdf) | [Video](https://youtu.be/UDKxtX8xlu0)
+- EM00: Course Introduction and Pre-requisites. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EE210_Supplementary_Notes.pdf) | [Video](https://youtu.be/St917qVTUJo)  
+- EM01: Maxwell's Equations in Differential and Integral Form. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM01.pdf) | [Video](https://youtu.be/WmTQY7kPQe0)  
+- EM02: Boundary Conditions and Constitutive Relations. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM02.pdf) | [Video](https://youtu.be/UDKxtX8xlu0)
 
 
 # Course Information
@@ -45,7 +45,7 @@ To develop a strong foundation in electromagnetic theory for applications in ant
 # Reference Books
 1. Kong, J. A., *Electromagnetic Wave Theory* ([free link](https://engineering.purdue.edu/wcchew/ece604f19/Supplementary%20Texts/KONG_JA_Elecrromagnetic_Wave_Theory-revised.pdf))  
 2. Harrington, R. F., *Time-Harmonic Electromagnetic Fields*  
-3. Balanis, C. A., *Advanced Electromagnetics*  
+3. Balanis, C. A., *Advanced Engineering Electromagnetics*  
 4. Jin, J. M., *Theory and Computation of Electromagnetic Fields*  
 5. Jackson, J. D., *Classical Electrodynamics*  
 6. Born, M. and Wolf, E., *Principles of Optics*  
