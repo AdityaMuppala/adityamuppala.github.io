@@ -11,7 +11,7 @@ permalink: /teaching210/
 1. EM01: Maxwell's Equations in Differential and Integral Form. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM01.pdf) [Video](https://youtu.be/WmTQY7kPQe0)  
 2. EM02: Boundary Conditions and Constitutive Relations. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM02.pdf) [Video](https://youtu.be/UDKxtX8xlu0)
 3. EM03: Dielectric and Conductor Models: Lorentz, Drude, Kramers-Kronig. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM03_Dielectric_Models.pdf) [Video](https://youtu.be/xBA-2vhAPTw)
-4. EM04: EM04 - EM Tools: Equivalent Currents, Duality, Image Theory. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM04_EM_Tools.pdf) [Video](https://youtu.be/7GRSXoy0UEs)
+4. EM04: EM Tools: Equivalent Currents, Duality, Image Theory. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM04_EM_Tools.pdf) [Video](https://youtu.be/7GRSXoy0UEs)
 
 
 # Course Information
