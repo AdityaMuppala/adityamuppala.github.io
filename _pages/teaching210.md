@@ -14,7 +14,13 @@ permalink: /teaching210/
 4. EM04: EM Tools: Equivalent Currents, Duality, Image Theory. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM04_EM_Tools.pdf) [Video](https://youtu.be/7GRSXoy0UEs)
 5. EM05: EM Theorems: Poynting, Uniqueness, Field Equivalance. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM05_EM_Theorems.pdf) [Video](https://youtu.be/V3GGjtXRewA)
 6. EM06: Solving Maxwell's Equations Using EM Potentials. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM06_EM_Potentials.pdf) [Video](https://youtu.be/ZUxlNK756oA)
+7. EM07: Time Harmonic EM Waves, Radiation. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM07_Time_Harmonic_EM.pdf) [Video](https://youtu.be/btv0JP_1ozQ)
+8. EM08: Antenna Concepts, Friis Transmission, Dipole, Small Loop. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM08_Antenna_Concepts.pdf) [Video](https://youtu.be/yr90gQA8B84)
 
+# CAD Tutorials
+
+1. EM06L: Maxwell's Equations in Differential and Integral Form. [Video](https://youtu.be/FMwDZqBmQ9I)  
+2. EM08L: Plotting Different Antenna Results in ANSYS HFSS. [Video](https://youtu.be/yr90gQA8B84)  
 
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
