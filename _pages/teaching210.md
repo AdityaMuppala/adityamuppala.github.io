@@ -19,7 +19,7 @@ permalink: /teaching210/
 
 # CAD Tutorials
 
-1. EM06L: Maxwell's Equations in Differential and Integral Form. [Video](https://youtu.be/FMwDZqBmQ9I)  
+1. EM06L: Introduction to ANSYS HFSS, Extracting Fields. [Video](https://youtu.be/FMwDZqBmQ9I)  
 2. EM08L: Plotting Different Antenna Results in ANSYS HFSS. [Video](https://youtu.be/yr90gQA8B84)  
 
 # Course Information
