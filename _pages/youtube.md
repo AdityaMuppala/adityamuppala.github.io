@@ -20,4 +20,4 @@ This is probably the series I am most excited about. The end goal here is to sho
 
 ## Applied Electromagnetic Theory
 
-Lectures from my [EE 210 Class](/teaching/).
+Lectures from my [EE 210 Class](https://www.youtube.com/playlist?list=PL9Trid0A4Da1E9O0tWe9XYMTeuAcexVcp).
