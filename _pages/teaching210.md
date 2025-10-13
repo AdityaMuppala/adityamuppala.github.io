@@ -16,16 +16,24 @@ permalink: /teaching210/
 6. EM06: Solving Maxwell's Equations Using EM Potentials. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM06_EM_Potentials.pdf) [Video](https://youtu.be/ZUxlNK756oA)
 7. EM07: Time Harmonic EM Waves, Radiation. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM07_Time_Harmonic_EM.pdf) [Video](https://youtu.be/btv0JP_1ozQ)
 8. EM08: Antenna Concepts, Friis Transmission, Dipole, Small Loop. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM08_Antenna_Concepts.pdf) [Video](https://youtu.be/yr90gQA8B84)
+9. EM09: Babinet Theorem, Frequency Independent Antennas. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM09_Babinet.pdf) [Video](https://youtu.be/Byl0IaC5KDI)
+10. EM10: Patch Antennas, Circular Pol., Bandwidth Enhancement, Miniaturization. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM10_Patch.pdf) [Video](https://youtu.be/ocvT1uH38rs)
+11. EM11: Antenna Arrays: Array Factor, Pattern Multiplication, Uniform Linear Arrays. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM11_Arrays.pdf) [Video](https://youtu.be/iZXzu-HNwIY)
+12. EM12: Green's Functions, Radiation Boundary Conditions. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM12_Greens_Fn.pdf) [Video](https://youtu.be/aGNRzCyWGog)
+13. EM13: Reciprocity and Non-reciprocity in Electromagnetism. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM13_Reciprocity.pdf) [Video](https://youtu.be/k97_pN6vknQ)
+14. EM14: Dyadic (Tensor) Green's Functions (Solving EM Fields Without Potentials). [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM14_Dyadic_GF.pdf) [Video](https://youtu.be/dHWK7zcUBag)
 
 # CAD Tutorials
 
 1. EM06L: Introduction to ANSYS HFSS, Extracting Fields. [Video](https://youtu.be/FMwDZqBmQ9I)  
 2. EM08L: Plotting Different Antenna Results in ANSYS HFSS. [Video](https://youtu.be/yr90gQA8B84)  
+3. EM11L: Simulating Phased Arrays in ANSYS HFSS. [Video](https://youtu.be/94rwYkyFKvo)  
+4. EM14L: MATLAB Code for Dyadic Green's Function Integral, HFSS Near-Field Demo. [Video](https://youtu.be/fM2xGeMJf0k)  
 
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
 - **Lectures:** Wed/Fri, 12:30–2:00 PM at Cory 293  
-- **Office Hours:** Wed/Fri, 4–6 PM at Cory 510 (Cory 400 if my office is overflowing)  
+- **Office Hours:** Mon/Fri, 4–6 PM at Cory 510
 
 ---
 
@@ -69,7 +77,7 @@ I will record lectures separately and post them to my [YouTube channel](https://
 ---
 
 # Homework and Exams
-One homework per week will be assigned on Friday and due the following Friday at midnight (11:59 PM). 
+One homework per week will be assigned on Sunday and due the following Sunday at midnight (11:59 PM). No penalty extension of two days is usually given.
 
 The first part of every homework will be to upload your notes from that week's lectures. This is to encourage you to take notes, which has been shown to improve learning and long-term retention, especially in mathematics. It is also an easy way to get points in the homework. You need not take notes in class during lecture. You can take them any time from the uploaded lecture notes or the lecture recordings. They can be handwritten or typed. If you do not want to take notes, that is fine, see grading policy below.
 
