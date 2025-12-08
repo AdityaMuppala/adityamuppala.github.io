@@ -7,7 +7,7 @@ permalink: /teaching210/
 
 # Lecture Recordings and Notes
 
-0. EM00: Course Introduction and Pre-requisites. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EE210_Supplementary_Notes.pdf) [Video](https://youtu.be/St917qVTUJo)
+Course Introduction and Pre-requisites. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EE210_Supplementary_Notes.pdf) [Video](https://youtu.be/St917qVTUJo)
 1. EM01: Maxwell's Equations in Differential and Integral Form. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM01.pdf) [Video](https://youtu.be/WmTQY7kPQe0)  
 2. EM02: Boundary Conditions and Constitutive Relations. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM02.pdf) [Video](https://youtu.be/UDKxtX8xlu0)
 3. EM03: Dielectric and Conductor Models: Lorentz, Drude, Kramers-Kronig. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM03_Dielectric_Models.pdf) [Video](https://youtu.be/xBA-2vhAPTw)
