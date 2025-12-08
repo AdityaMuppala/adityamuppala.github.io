@@ -22,8 +22,8 @@ permalink: /teaching210/
 12. EM12: Green's Functions, Radiation Boundary Conditions. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM12_Greens_Fn.pdf) [Video](https://youtu.be/aGNRzCyWGog)
 13. EM13: Reciprocity and Non-reciprocity in Electromagnetism. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM13_Reciprocity.pdf) [Video](https://youtu.be/k97_pN6vknQ)
 14. EM14: Dyadic (Tensor) Green's Functions (Solving EM Fields Without Potentials). [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM14_Dyadic_GF.pdf) [Video](https://youtu.be/dHWK7zcUBag)
-15. EM15: Extinction Theorem, Integral Equation Formulation, Method of Moments. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/Lecture_15.pdf) [Video](https://youtu.be/i4etw-gbvX8)
-16. EM16: Magnetic Field Integral Equation, Physical Optics, Geometrical Optics. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/Lecture_16.pdf) [Video](https://youtu.be/W2TH9FHBRGE)
+15. EM15: Extinction Theorem, Integral Equation Formulation, Method of Moments. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM15_MoM.pdf) [Video](https://youtu.be/i4etw-gbvX8)
+16. EM16: Magnetic Field Integral Equation, Physical Optics, Geometrical Optics. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM16_MFIE.pdf) [Video](https://youtu.be/W2TH9FHBRGE)
 
 # CAD Tutorials
 
