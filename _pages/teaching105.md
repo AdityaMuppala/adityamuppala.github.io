@@ -41,7 +41,7 @@ To develop a strong foundation in microelectronics from the device to the circui
 
 # Syllabus
 1. **Circuits and Linear Time Invariant (LTI) Systems:** KVL, KCL, Thevenin, Norton, Time domain vs. Frequency domain, LTI systems, Impulse response, Non-ideal OpAmp Circuits.  
-2. **Semiconductors, PN-junctions, Bipolar Junction Transistors (BJTs):** Semiconductor physics, IC technology, PN-junctions, Diodes, LEDs, Photodiodes, Bipolar Junction Transistors (BJTs).
+2. **Semiconductors devices:** Semiconductor physics, IC technology, PN-junctions, Diodes, LEDs, Photodiodes, Bipolar Junction Transistors (BJTs).
 3. **MOS Devices, Varactors, MOSFETs:** CMOS device physics, MOS capacitor, MOSFET modeling.
 4. **Transistor Circuits, Amplifiers, Frequency Response:** Single stage amplifiers, Current Mirrors, Poles and Zeroes, Miller Effect.
 5. **Multistage Amplifiers and Frequency Response:** Cascade and Cascode techniques, Differential Amplifiers, Operational Amplifiers.
