@@ -35,7 +35,7 @@ permalink: /teaching105/
 ---
 
 # Course Objectives
-To develop a strong foundation in microelectronics from the device to the circuit level. This course introduces semiconductor technology and develops the fundamentals of devices such as PN-junction diodes, Metal-Oxide-Semiconductor (MOS) capacitors, Bipolar Junction Transistors (BJTs), and MOS Field-Effect-Transistors (MOSFETs). From device technology we delve into circuit concepts that lay the foundation of analog integrated circuits. Single stage and multi-stage amplifiers are discussed in detail, including phasor analysis and frequency response. The course concludes with a brief discussion on differential amplifiers and operational amplifiers (OpAmps).
+To develop a strong foundation in microelectronics from the device to the circuit level. We start from semiconductor physics and study the operation of PN-junction diodes, Metal-Oxide-Semiconductor (MOS) capacitors, Bipolar Junction Transistors (BJTs), and MOS Field-Effect-Transistors (MOSFETs). From device technology we delve into circuit concepts. Single stage and multi-stage amplifiers are discussed in detail, including phasor analysis and frequency response. The course concludes with a brief discussion on differential amplifiers and operational amplifiers (OpAmps). The lectures will focus on developing a strong intuition for analog circuit design.
 
 ---
 
