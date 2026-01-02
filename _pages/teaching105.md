@@ -22,7 +22,7 @@ permalink: /teaching105/
 - **Discussion Sec 2:** Tue, 4:00 – 5:00 PM at Social Sciences Building 110
 - **Lab Sec 1:** Wed, 8:00 – 11:00 AM at Cory 125
 - **Lab Sec 2:** Wed, 11:00 AM – 2:00 PM at Cory 125
-- **Lab Sec 3:** Wed, 2:00 PM – 5:00 PM at Cory 125
+- **Lab Sec 3:** Wed, 2:00 – 5:00 PM at Cory 125
 - **Lab Sec 4:** Wed, 5:00 – 8:00 PM at Cory 125
 
 # Office Hours
