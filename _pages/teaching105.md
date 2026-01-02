@@ -10,10 +10,10 @@ permalink: /teaching105/
 
 # Course Team
 - **Primary Instructor:** Aditya Varma Muppala
-- **Discussion TA:** Haifah Sambo
-- **Lab TA 1** Evan Kuo
-- **Lab TA 2** Harry Qian
-- **Lab TA 3** Amy Ruimin Yao
+- **Discussion TA and GSI:** Haifah Sambo
+- **Lab TA:** Evan Kuo
+- **Lab TA:** Harry Qian
+- **Lab TA:** Amy Ruimin Yao
 - **Grader** Suvan Ravi
 
 # Course Schedule
