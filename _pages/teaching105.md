@@ -9,12 +9,12 @@ permalink: /teaching105/
 - Will be posted here
 
 # Course Team
-- **Primary Instructor:** Aditya Varma Muppala
-- **Discussion TA and GSI:** Haifah Sambo
-- **Lab TA:** Evan Kuo
-- **Lab TA:** Harry Qian
-- **Lab TA:** Amy Ruimin Yao
-- **Grader** Suvan Ravi
+- **Primary Instructor:** Aditya Varma Muppala (muppala@berkeley.edu)
+- **Discussion TA and GSI:** Haifah Sambo (hsambo@berkeley.edu)
+- **Lab TA:** Evan Kuo (evan_kuo@berkeley.edu)
+- **Lab TA:** Harry Qian (harry.qian26@berkeley.edu)
+- **Lab TA:** Amy Ruimin Yao (amy.yao@berkeley.edu)
+- **Grader** Suvan Ravi (suvanr106@berkeley.edu)
 
 # Course Schedule
 - **Lectures:** Tue/Thurs, 11:00 – 12:30 PM at Soda 306
