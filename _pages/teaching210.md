@@ -107,6 +107,7 @@ We will have one mid-term and one final. Exam problems will be equivalent in dif
 Your lowest homework grade will be dropped.
 
 Score 1 = 20% Notes + 40% HW (including CAD) + 20% Mid-term + 20% Final.
+
 Score 2 = 40% HW (including CAD) + 30% Mid-term + 30% Final.
 
 Final grade = max{Score 1, Score 2}
@@ -114,4 +115,5 @@ Final grade = max{Score 1, Score 2}
 # Accessibility and Mental Health Resources
 UHS offers mental health services to all UC Berkeley students regardless of insurance plan. Please see: [link](https://uhs.berkeley.edu/student-mental-health).
 
-If you feel any part of the course content is not easily accessible due to your individual needs please let me know. Here are some resources: [link 1](https://rtl.berkeley.edu/services-programs/ally-bcourses), [link 2](\href{https://rtl.berkeley.edu/rtl-learning-paths/digital-course-content-accessibility).
+If you feel any part of the course content is not easily accessible due to your individual needs please let me know. 
+Here are some resources: [link 1](https://rtl.berkeley.edu/services-programs/ally-bcourses), [link 2](https://rtl.berkeley.edu/rtl-learning-paths/digital-course-content-accessibility).
