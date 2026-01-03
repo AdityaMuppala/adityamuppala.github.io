@@ -81,6 +81,7 @@ Please read carefully the [Academic Misconduct Policy](https://eecs.berkeley.edu
 Your lowest homework grade will be dropped.
 
 Score 1 = 10% Notes + 20% HW + 20% Lab + 20% Mid-term + 30% Final.
+
 Score 2 = 20% HW + 20% Lab + 25% Mid-term + 35% Final.
 
 Final grade = max{Score 1, Score 2}
