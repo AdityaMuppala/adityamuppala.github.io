@@ -54,6 +54,8 @@ To develop a strong foundation in microelectronics from the device to the circui
 ---
 
 # Reference Books
+*Art of Electronics* by Horowitz and Hill
+*Microelectronic Circuits* by Sedra and Smith
 
 ---
 
