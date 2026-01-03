@@ -90,4 +90,4 @@ Final grade = max{Score 1, Score 2}
 UHS offers mental health services to all UC Berkeley students regardless of insurance plan. Please see: [link](https://uhs.berkeley.edu/student-mental-health).
 
 If you feel any part of the course content is not easily accessible due to your individual needs please let me know. 
-Here are some resources: [link 1](https://rtl.berkeley.edu/services-programs/ally-bcourses), [link 2](\href{https://rtl.berkeley.edu/rtl-learning-paths/digital-course-content-accessibility).
+Here are some resources: [link 1](https://rtl.berkeley.edu/services-programs/ally-bcourses), [link 2](https://rtl.berkeley.edu/rtl-learning-paths/digital-course-content-accessibility).
