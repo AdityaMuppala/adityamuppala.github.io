@@ -25,6 +25,8 @@ permalink: /teaching105/
 - **Lab Sec 3:** Wed, 2:00 – 5:00 PM at Cory 125
 - **Lab Sec 4:** Wed, 5:00 – 8:00 PM at Cory 125
 
+A detailed course schedule can be found here: [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing)
+  
 # Office Hours
 - **Aditya Muppala:** Tue/Thurs, 5–6 PM at Cory 510
 - **Haifah Sambo:** TBD
