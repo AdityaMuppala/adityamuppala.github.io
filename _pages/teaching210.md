@@ -100,8 +100,6 @@ Additionally, there will be two to three problems and/or one CAD assignment in H
 
 We will have one mid-term and one final. Exam problems will be equivalent in difficulty to the homeworks. The main goal of exams is to force you to review the class material and test your conceptual understanding of the subject. As long as you do all the homeworks and have reviewed the material in class well, you will do well on the exams.
 
-**Lastly, I highly recommend you attend office hours because this is where the magic happens in this class as we get to discuss problems on the homework, CAD and other cool stuff.**
-
 ---
 
 # Grading
