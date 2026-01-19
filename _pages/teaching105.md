@@ -58,7 +58,8 @@ To develop a strong foundation in microelectronics from the device to the circui
 # Reference Books
 1. *Art of Electronics* by Horowitz and Hill
 2. *Microelectronic Circuits* by Sedra and Smith
-3. *Analog: Inexact Science, Vibrant Art* by Ali Hajimiri
+3. *Fundamentals of Microelectronics* by Behzad Razavi
+4. *Analog: Inexact Science, Vibrant Art* by Ali Hajimiri
 
 ---
 
