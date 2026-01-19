@@ -98,7 +98,7 @@ The first part of every homework will be to upload your notes from that week's l
 
 Additionally, there will be two to three problems and/or one CAD assignment in HFSS per week. I encourage collaboration, but every student must turn in individual homework and CAD solutions. I don't oppose the use of AI tools in solving homework problems. If you did use AI to solve part of a problem, say to solve an integral, be sure to cite it in your solution. There is no penalty for using AI, but remember that deep understanding comes from the confusion and frustration you go through when wrapping your head around a new problem or concept. If you don't put yourself through this, you will have learned nothing more than how to be a good prompt engineer, which is not the goal of this course.
 
-We will have one mid-term and one final. Exam problems will be equivalent in difficulty to the homeworks. The main goal of exams is to force you to review the class material and test your conceptual understanding of the subject. They are not representative of research in real life so I don't take them too seriously and neither should you. As long as you do all the homeworks and have reviewed the material in class well, you will do well on the exams.
+We will have one mid-term and one final. Exam problems will be equivalent in difficulty to the homeworks. The main goal of exams is to force you to review the class material and test your conceptual understanding of the subject. As long as you do all the homeworks and have reviewed the material in class well, you will do well on the exams.
 
 **Lastly, I highly recommend you attend office hours because this is where the magic happens in this class as we get to discuss problems on the homework, CAD and other cool stuff.**
 
