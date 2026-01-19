@@ -35,6 +35,7 @@ Course Introduction and Pre-requisites. [Notes](https://adityamuppala.github.io/
 25. EM24: Cylindrical Dielectric Waveguides, Fiber Optic Modes (TE/TM, EH/HE and LP). [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM24_Fiber.pdf) [Video](https://youtu.be/Rc6tq1t01Ok)
 26. EM25: Spherical Wave Functions, Multipole Expansion, Super-Directive Antennas. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM25_SWE.pdf) [Video](https://youtu.be/WQJMzxr6ekw)
 27. EM26: Plane Wave Scattering from Spheres, Rayleigh Scattering, Creeping Waves. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM26_Scattering.pdf) [Video](https://youtu.be/wo4YKehTydM)
+28. EM27: Electrically Small Antennas; Deriving the Chu-Harrington BW-Efficiency Limit. [Notes](https://adityamuppala.github.io/assets/Notes_EE210/EM27_ESA.pdf) [Video](https://youtu.be/-HyWZBtZpN0)
 
 # CAD Tutorials
 
