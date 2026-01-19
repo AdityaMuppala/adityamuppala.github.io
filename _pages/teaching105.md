@@ -14,7 +14,7 @@ permalink: /teaching105/
 - **Lab TA:** Evan Kuo (evan_kuo@berkeley.edu)
 - **Lab TA:** Harry Qian (harry.qian26@berkeley.edu)
 - **Lab TA:** Amy Ruimin Yao (amy.yao@berkeley.edu)
-- **Grader** Suvan Ravi (suvanr106@berkeley.edu)
+- **Grader:** Suvan Ravi (suvanr106@berkeley.edu)
 
 # Course Schedule
 - **Lectures:** Tue/Thurs, 11:00 – 12:30 PM at Soda 306
