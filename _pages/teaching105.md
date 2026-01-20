@@ -64,7 +64,7 @@ To develop a strong foundation in microelectronics from the device to the circui
 ---
 
 # Lecture Recordings and Notes
-I will record lectures separately and post them to my [YouTube channel](https://www.youtube.com/@adityavarmamuppala). I prefer this since web capture on a whiteboard does not do a good job. Also, I will post the lecture notes on my website and to bCourses as the course progresses.
+Lecture recordings will be available through course capture. Students registered in the class can access them through the YouTube link which will be posted above along with the notes. The notes will also be posted to bCourses.
 
 ---
 
