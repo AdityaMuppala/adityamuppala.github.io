@@ -6,7 +6,7 @@ permalink: /teaching105/
 
 
 # Lecture Recordings and Notes
-- Will be posted here
+Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.youtube.com/playlist?list=PLnocShPlK-FvxztOLs3Ez4v6vpEgsOU-Q). You can view the videos by logging in with your Berkeley credentials.
 
 # Course Team
 - **Primary Instructor:** Aditya Varma Muppala (muppala@berkeley.edu)
@@ -60,11 +60,6 @@ To develop a strong foundation in microelectronics from the device to the circui
 2. *Microelectronic Circuits* by Sedra and Smith
 3. *Fundamentals of Microelectronics* by Behzad Razavi
 4. *Analog: Inexact Science, Vibrant Art* by Ali Hajimiri
-
----
-
-# Lecture Recordings and Notes
-Lecture recordings will be available through course capture. Students registered in the class can access them through the YouTube link which will be posted above along with the notes. The notes will also be posted to bCourses.
 
 ---
 
