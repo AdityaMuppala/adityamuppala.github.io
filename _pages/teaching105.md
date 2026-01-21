@@ -59,7 +59,7 @@ To develop a strong foundation in microelectronics from the device to the circui
 1. *Art of Electronics* by Horowitz and Hill
 2. *Microelectronic Circuits* by Sedra and Smith
 3. *Fundamentals of Microelectronics* by Behzad Razavi
-4. *Analog: Inexact Science, Vibrant Art* by Ali Hajimiri
+4. *Analog: Inexact Science, Vibrant Art* by Ali Hajimiri ([free link])(https://chic.caltech.edu/wp-content/uploads/2023/01/Hajimiri_Analog_DRAFT012023.pdf)
 
 ---
 
