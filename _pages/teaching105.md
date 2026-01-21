@@ -8,6 +8,8 @@ permalink: /teaching105/
 # Lecture Recordings and Notes
 Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.youtube.com/playlist?list=PLnocShPlK-FvxztOLs3Ez4v6vpEgsOU-Q). You can view the videos by logging in with your Berkeley credentials.
 
+1. Lecture 1 - Class Logistics and Motivation (no notes)
+
 # Course Team
 - **Primary Instructor:** Aditya Varma Muppala (muppala@berkeley.edu)
 - **Discussion TA and GSI:** Haifah Sambo (hsambo@berkeley.edu)
