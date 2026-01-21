@@ -51,7 +51,7 @@ To develop a strong foundation in microelectronics from the device to the circui
 ---
 
 # Textbook
-*Electronics EE 105 Reader* by Ali M. Niknejad ([free link]()).
+*Electronics EE 105 Reader* by Ali M. Niknejad ([free link](https://people.eecs.berkeley.edu/~pister/105fa25/resources/ee105_reader_v3.pdf)).
 
 ---
 
