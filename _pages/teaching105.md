@@ -34,15 +34,15 @@ See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMa
 - **Lab Sec 2:** Wed, 11:00 AM – 2:00 PM at Cory 125
 - **Lab Sec 3:** Wed, 2:00 – 5:00 PM at Cory 125
 - **Lab Sec 4:** Wed, 5:00 – 8:00 PM at Cory 125
-
+- **Homework Party** Tue, 5:00 – 7:00 PM at TBD
 A detailed course schedule can be found here: [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing)
   
 # Office Hours
-- **Aditya Muppala:** Tue/Thurs, 5–6 PM at Cory 510
-- **Haifah Sambo:** TBD
-- **Evan Kuo:** TBD
-- **Harry Qian:** TBD
-- **Amy Ruimin Yao:** TBD
+- **Aditya Muppala:** Tue/Thurs, 5:00 – 6:00 PM at Cory 510
+- **Haifah Sambo:** Monday 4:00 - 5:00 PM; Tuesday 5-6 PM as part of the HW party (Location TBD)
+- **Evan Kuo:** Tuesday 1:00 - 3:00 PM in Cory 125
+- **Harry Qian:** Monday 2:00 - 3:00 PM in Cory 125
+- **Amy Ruimin Yao:** Monday 1:00 - 2:00 PM in Cory 125
 
 ---
 
