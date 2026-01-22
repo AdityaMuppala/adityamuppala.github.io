@@ -34,7 +34,7 @@ See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMa
 - **Lab Sec 2:** Wed, 11:00 AM – 2:00 PM at Cory 125
 - **Lab Sec 3:** Wed, 2:00 – 5:00 PM at Cory 125
 - **Lab Sec 4:** Wed, 5:00 – 8:00 PM at Cory 125
-- **Homework Party** Tue, 5:00 – 7:00 PM at TBD
+- **Homework Party:** Tue, 5:00 – 7:00 PM at TBD
 
 A detailed course schedule can be found here: [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing)
   
