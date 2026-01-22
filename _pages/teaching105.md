@@ -12,7 +12,9 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 
 # Labs
 Note: Prelab worksheets are due the Tuesday before the assigned lab and Lab worksheets are due the Tuesday after the assigned lab. 
-See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing) for details on the deadlines.
+See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing) for details on the deadlines. 
+
+**For late submissions and accomodation requests see the Accomodations section below.**
 
 1. Lab 1 - Electronic Test Equipment, RC Response, Diode IV - [Lab manual](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_Manual_Updated), [Prelab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_PreLab1_WS), [Lab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_WS)
 
@@ -92,6 +94,8 @@ Score 1 = 10% Notes + 20% HW + 20% Lab + 20% Mid-term + 30% Final.
 Score 2 = 20% HW + 20% Lab + 25% Mid-term + 35% Final.
 
 Final grade = max{Score 1, Score 2}
+
+---
 
 # Accessibility and Mental Health Resources
 UHS offers mental health services to all UC Berkeley students regardless of insurance plan. Please see: [link](https://uhs.berkeley.edu/student-mental-health).
