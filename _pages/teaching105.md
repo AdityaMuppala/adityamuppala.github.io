@@ -35,6 +35,7 @@ See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMa
 - **Lab Sec 3:** Wed, 2:00 – 5:00 PM at Cory 125
 - **Lab Sec 4:** Wed, 5:00 – 8:00 PM at Cory 125
 - **Homework Party** Tue, 5:00 – 7:00 PM at TBD
+
 A detailed course schedule can be found here: [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing)
   
 # Office Hours
@@ -74,7 +75,7 @@ To develop a strong foundation in microelectronics from the device to the circui
 ---
 
 # Homework and Exams
-One homework per week will be assigned on Tuesday and due the following Tuesday at midnight (11:59 PM).
+One homework per week will be assigned on Tuesday and due the following Tuesday at midnight (11:59 PM). **Homework Party** is on Tue, 5:00 – 7:00 PM at TBD. You can come to the homework party to collaborate and work with others, with help from the GSI Haifa during the first hour.
 
 The first part of every homework will be to upload your notes from that week's lectures. This is to encourage you to take notes, which has been shown to improve learning and long-term retention. It is also an easy way to get points in the homework. You need not take notes in class during lecture. You can take them any time from the uploaded lecture notes or the lecture recordings. They can be handwritten or typed. If you do not want to take notes, that is fine, see grading policy below.
 
