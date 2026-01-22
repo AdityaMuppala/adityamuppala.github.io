@@ -21,7 +21,7 @@ See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMa
 # Course Team
 - **Primary Instructor:** Aditya Varma Muppala (muppala@berkeley.edu)
 - **Discussion TA and GSI:** Haifah Sambo (hsambo@berkeley.edu)
-- **Lab TA:** Evan Kuo (evan_kuo@berkeley.edu)
+- **Lab Head TA:** Evan Kuo (evan_kuo@berkeley.edu)
 - **Lab TA:** Harry Qian (harry.qian26@berkeley.edu)
 - **Lab TA:** Amy Ruimin Yao (amy.yao@berkeley.edu)
 - **Grader:** Suvan Ravi (suvanr106@berkeley.edu)
