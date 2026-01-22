@@ -14,7 +14,7 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 Note: Prelab worksheets are due the Tuesday before the assigned lab and Lab worksheets are due the Tuesday after the assigned lab. 
 See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing) for details on the deadlines. 
 
-**For late submissions and accomodation requests see the Accomodations section below.**
+**For late submission requests see the Late Submissions section below.**
 
 1. Lab 1 - Electronic Test Equipment, RC Response, Diode IV - [Lab manual](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_Manual_Updated), [Prelab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_PreLab1_WS), [Lab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_WS)
 
@@ -94,6 +94,11 @@ Score 1 = 10% Notes + 20% HW + 20% Lab + 20% Mid-term + 30% Final.
 Score 2 = 20% HW + 20% Lab + 25% Mid-term + 35% Final.
 
 Final grade = max{Score 1, Score 2}
+
+---
+
+# Late Submissions
+The pre-lab worksheets, lab worksheets and homeworks are due at 11:59 PM on Tuesdays. For extensions on the homework you should send an email to the GSI Haifa (hsambo@berkeley.edu) and cc the instructor Aditya (muppala@berkeley.edu). For extensions on the pre-lab and lab worksheets you should send an email to the head lab TA Evan (evan_kuo@berkeley.edu) and cc the instructor Aditya (muppala@berkeley.edu). The emails must be **received by 6 PM on Tuesdays**. Emails received after this time will not be accomodated. Typically an extension of 2 days will be given. Note that the lowest HW grade will be dropped.
 
 ---
 
