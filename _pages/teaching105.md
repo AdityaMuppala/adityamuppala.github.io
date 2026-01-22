@@ -74,7 +74,7 @@ To develop a strong foundation in microelectronics from the device to the circui
 ---
 
 # Homework and Exams
-One homework per week will be assigned on Wednesday and due the following Wednesday at midnight (11:59 PM).
+One homework per week will be assigned on Tuesday and due the following Tuesday at midnight (11:59 PM).
 
 The first part of every homework will be to upload your notes from that week's lectures. This is to encourage you to take notes, which has been shown to improve learning and long-term retention. It is also an easy way to get points in the homework. You need not take notes in class during lecture. You can take them any time from the uploaded lecture notes or the lecture recordings. They can be handwritten or typed. If you do not want to take notes, that is fine, see grading policy below.
 
