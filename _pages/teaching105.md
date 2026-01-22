@@ -14,7 +14,7 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 Note: Prelab worksheets are due the Tuesday before the assigned lab and Lab worksheets are due the Tuesday after the assigned lab. 
 See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing) for details on the deadlines.
 
-1. Lab 1 - Electronic Test Equipment, RC Response, Diode IV ([Lab manual](), [Prelab worksheet](), [Lab worksheet]())
+1. Lab 1 - Electronic Test Equipment, RC Response, Diode IV ([Lab manual](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_Manual_Updated), [Prelab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_PreLab1_WS), [Lab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_WS))
 
 # Course Team
 - **Primary Instructor:** Aditya Varma Muppala (muppala@berkeley.edu)
