@@ -10,6 +10,10 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 
 1. Lecture 1 - Class Logistics and Motivation (no notes)
 
+# Labs
+Note: Prelab worksheets are due the Tuesday before the assigned lab and Lab worksheets are due the Tuesday after the assigned lab. See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing)
+1. Lab 1 - Electronic Test Equipment, RC Response, Diode IV ([Lab manual](), [Prelab worksheet](), [Lab worksheet]())
+
 # Course Team
 - **Primary Instructor:** Aditya Varma Muppala (muppala@berkeley.edu)
 - **Discussion TA and GSI:** Haifah Sambo (hsambo@berkeley.edu)
