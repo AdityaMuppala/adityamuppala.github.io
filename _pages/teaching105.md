@@ -10,7 +10,7 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 
 1. Lecture 1 - Class Logistics and Motivation - No notes
 2. Lecture 2 - Review of Circuit Fundamentals, Passive vs Active, KVL, KCL, Circuit Theorems - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec2.pdf)
-3. Lecture 3 - LTI systems, Impulse Response, Convolution, Step Response, First Order ODEs in Time Domain - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec3.pdf)
+3. Lecture 3 - LTI systems, Impulse Response, Convolution, Step Response - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec3.pdf)
 4. 
 
 # Labs
