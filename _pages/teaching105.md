@@ -9,7 +9,8 @@ permalink: /teaching105/
 Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.youtube.com/playlist?list=PLnocShPlK-FvxztOLs3Ez4v6vpEgsOU-Q). You can view the videos by logging in with your Berkeley credentials.
 
 1. Lecture 1 - Class Logistics and Motivation - No notes
-
+2. Lecture 2 - Review of Circuit Fundamentals, Passive vs Active, KVL, KCL, Circuit Theorems - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec2.pdf)
+3. Lecture 3 - LTI systems, Impulse Response, Convolution, Step Response, First Order ODEs in Time Domain - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec3.pdf)
 # Labs
 Note: Prelab worksheets are due the Tuesday before the assigned lab and Lab worksheets are due the Tuesday after the assigned lab. 
 See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing) for details on the deadlines. 
