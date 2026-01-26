@@ -11,7 +11,6 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 1. Lecture 1 - Class Logistics and Motivation - No notes
 2. Lecture 2 - Review of Circuit Fundamentals, Passive vs Active, KVL, KCL, Circuit Theorems - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec2.pdf)
 3. Lecture 3 - LTI systems, Impulse Response, Convolution, Step Response - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec3.pdf)
-4. 
 
 # Labs
 Note: Prelab worksheets are due the Tuesday before the assigned lab and Lab worksheets are due the Tuesday after the assigned lab. 
@@ -42,8 +41,13 @@ See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMa
 A detailed course schedule can be found here: [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing)
   
 # Office Hours
+
 - **Aditya Muppala:** Tue/Thurs, 5:00 – 6:00 PM at Cory 510
+
+Questions regarding Lectures and Homeworks:
 - **Haifah Sambo:** Monday 4:00 - 5:00 PM at Cory 433; Tuesday 5:00 - 6:00 PM as part of the HW party at Cory 433.
+
+Questions regarding Labs:
 - **Evan Kuo:** Tuesday 1:00 - 3:00 PM at Cory 125
 - **Harry Qian:** Monday 2:00 - 3:00 PM at Cory 125
 - **Amy Ruimin Yao:** Monday 1:00 - 2:00 PM at Cory 125
