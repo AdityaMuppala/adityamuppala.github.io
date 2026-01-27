@@ -48,7 +48,7 @@ Questions regarding Lectures and Homeworks:
 - **Haifah Sambo:** Monday 4:00 - 5:00 PM at Cory 433; Tuesday 5:00 - 6:00 PM as part of the HW party at Cory 433.
 
 Questions regarding Labs:
-- **Evan Kuo:** Tuesday 1:00 - 3:00 PM at Cory 125
+- **Evan Kuo:** Tuesday 2:00 - 3:30 PM at Cory 125
 - **Harry Qian:** Monday 2:00 - 3:00 PM at Cory 125
 - **Amy Ruimin Yao:** Monday 1:00 - 2:00 PM at Cory 125
 
