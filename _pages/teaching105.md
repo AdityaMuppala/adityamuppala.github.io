@@ -18,6 +18,7 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 **For late submission requests see the Late Submissions section below.**
 
 1. HW 1 - Circuit Fundamentals - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW1.pdf)
+1. HW 2 - Laplace Transforms and LTI Circuits - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW1.pdf)
 
 # Labs
 Note: Prelab worksheets are due the Tuesday before the assigned lab and Lab worksheets are due the Tuesday after the assigned lab. 
