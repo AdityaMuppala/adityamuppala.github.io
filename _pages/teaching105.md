@@ -117,8 +117,13 @@ Final grade = max{Score 1, Score 2}
 The pre-lab worksheets, lab worksheets and homeworks are due at 11:59 PM on Tuesdays. For extensions on the homework you should send an email to the GSI Haifa (hsambo@berkeley.edu) and cc the instructor Aditya (muppala@berkeley.edu). For extensions on the pre-lab and lab worksheets you should send an email to the head lab TA Evan (evan_kuo@berkeley.edu) and cc the instructor Aditya (muppala@berkeley.edu). The emails must be **received by 6 PM on Tuesdays**. Emails received after this time will not be accomodated. Typically an extension of 2 days will be given. Note that the lowest HW grade will be dropped.
 
 ---
+# DSP accomodations
+On homework and lab submissions DSP extensions will be granted for students whose DSP letters mention extensions to assignments. For such cases we will give you a 2 day extension on all assignments for the semester. Please reach out to Haifa (cc Aditya) for HW extensions and Evan (cc Aditya) for lab extensions. If you need more time please reach out to us via email.
 
-# Accessibility and Mental Health Resources
+Exam accomodations for 150% time requirements will be made by us. For those who need a separate room or a 200% time allotment please reach out to the DSP office for accomodation.
+
+---
+# Accessibility and Resources
 UHS offers mental health services to all UC Berkeley students regardless of insurance plan. Please see: [link](https://uhs.berkeley.edu/student-mental-health).
 
 If you feel any part of the course content is not easily accessible due to your individual needs please let me know. 
