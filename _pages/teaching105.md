@@ -18,7 +18,7 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 **For late submission requests see the Late Submissions section below.**
 
 1. HW 1 - Circuit Fundamentals - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW1.pdf)
-1. HW 2 - Laplace Transforms and LTI Circuits - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW1.pdf)
+1. HW 2 - Laplace Transforms and LTI Circuits - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW2.pdf)
 
 # Labs
 Note: Prelab worksheets are due the Tuesday before the assigned lab and Lab worksheets are due the Tuesday after the assigned lab. 
@@ -27,6 +27,8 @@ See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMa
 **For late submission requests see the Late Submissions section below.**
 
 1. Lab 1 - Electronic Test Equipment, RC Response, Diode IV - [Lab manual](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_Manual_Updated.pdf), [Prelab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_PreLab1_WS.pdf), [Lab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_WS.pdf)
+
+2. Lab 2 - Non-ideal Op-Amps - [Lab manual](https://adityamuppala.github.io/assets/EE_105/Labs/lab2_manual.pdf), [Prelab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/lab2_prelab_WS.pdf), [Lab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/lab2_WS.pdf)
 
 # Course Team
 - **Primary Instructor:** Aditya Varma Muppala (muppala@berkeley.edu)
