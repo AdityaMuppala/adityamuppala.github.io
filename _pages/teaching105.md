@@ -12,6 +12,8 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 2. Lecture 2 - Review of Circuit Fundamentals, Passive vs Active, KVL, KCL, Circuit Theorems - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec2.pdf)
 3. Lecture 3 - LTI systems, Impulse Response, Convolution, Step Response - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec3.pdf)
 4. Lecture 4 - Frequency Response and Laplace Transforms - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec4.pdf)
+5. Lecture 5 - Frequency Response and Laplace Transforms Continued - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec5.pdf)
+6. Lecture 6 - Poles and Zeros, Bode Plots, Root Locus - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec6.pdf)
 
 # Homeworks
 
