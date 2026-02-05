@@ -120,7 +120,7 @@ The pre-lab worksheets, lab worksheets and homeworks are due at 11:59 PM on Tues
 
 ---
 # DSP accomodations
-On homework and lab submissions DSP extensions will be granted for students whose DSP letters mention extensions to assignments. For such cases we will give you a 2 day extension on all assignments for the semester. Please reach out to Haifa (cc Aditya) for HW extensions and Evan (cc Aditya) for lab extensions. If you need more time please reach out to us via email.
+On homework and lab submissions DSP extensions will be granted for students whose DSP letters mention extensions to assignments. For such cases we will give you a 2 day extension on all assignments for the semester. If your DSP letter mentions extensions *upon request*, please reach out to Haifa (cc Aditya) for HW extensions and Evan (cc Aditya) for lab extensions. If you need more time please reach out to us via email.
 
 Exam accomodations for 150% time requirements will be made by us. For those who need a separate room or a 200% time allotment please reach out to the DSP office for accomodation.
 
