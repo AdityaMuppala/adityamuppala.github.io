@@ -118,7 +118,15 @@ Final grade = max{Score 1, Score 2}
 ---
 
 # Late Submissions
-The pre-lab worksheets, lab worksheets and homeworks are due at 11:59 PM on Tuesdays. For extensions on the homework you should send an email to the GSI Haifa (hsambo@berkeley.edu) and cc the instructor Aditya (muppala@berkeley.edu). For extensions on the pre-lab and lab worksheets you should send an email to the head lab TA Evan (evan_kuo@berkeley.edu) and cc the instructor Aditya (muppala@berkeley.edu). The emails must be **received by 6 PM on Tuesdays**. Emails received after this time will not be accomodated. Typically an extension of 2 days will be given. Note that the lowest HW grade will be dropped.
+The pre-lab worksheets, lab worksheets and homeworks are due at 11:59 PM on Tuesdays. For extensions on the homework you should send an email to the GSI Haifa (hsambo@berkeley.edu) and cc the instructor Aditya (muppala@berkeley.edu). For extensions on the pre-lab and lab worksheets you should send an email to the head lab TA Evan (evan_kuo@berkeley.edu) and cc the instructor Aditya (muppala@berkeley.edu). The emails must be **received by 6 PM on Tuesdays**. Emails received after this time will not be accomodated. 
+
+Extensions will be considered only in the following cases:
+1. Illness or medical issues
+2. Family or personal emergencies
+3. DSP accommodations (if assignment extensions are included)
+4. Rare circumstances, at the discretion of the GSI/TA
+
+Typically an extension of 2 days will be given. Note that the lowest HW grade will be dropped.
 
 ---
 # DSP accomodations
