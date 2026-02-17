@@ -14,6 +14,9 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 4. Lecture 4 - Frequency Response and Laplace Transforms - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec4.pdf)
 5. Lecture 5 - Frequency Response and Laplace Transforms Continued - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec5.pdf)
 6. Lecture 6 - Poles and Zeros, Bode Plots, Root Locus - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec6.pdf)
+7. Lecture 7 - Feedback and Non-ideal Op-Amps - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec7.pdf)
+8. Lecture 8 - Semiconductor Physics - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec8.pdf)
+9. Lecture 9 - Drift and Diffusion Currents, PN Junctions - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec9.pdf)
 
 # Homeworks
 
