@@ -28,7 +28,7 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 4. HW 4 - Op-Amps, Semiconductor Physics - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW4.pdf)
 
 # Labs
-Note: Prelab worksheets are due the Tuesday before the assigned lab and Lab worksheets are due the Tuesday after the assigned lab. 
+Note: Prelab worksheets are due on Wednesday morning 7:59 AM before the assigned lab. Lab worksheets are due the Tuesday after the assigned lab. 
 See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing) for details on the deadlines. 
 
 **For late submission requests see the Late Submissions section below.**
