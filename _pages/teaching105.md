@@ -17,6 +17,12 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 7. Lecture 7 - Feedback and Non-ideal Op-Amps - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec7.pdf)
 8. Lecture 8 - Semiconductor Physics - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec8.pdf)
 9. Lecture 9 - Drift and Diffusion Currents, PN Junctions - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec9.pdf)
+10. Lecture 10 - PN Junction Operation, Junction Capacitance - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec10.pdf)
+11. Lecture 11 - BJT Device Physics - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec11.pdf)
+12. Lecture 12 - BJT Large and Small Signal Models - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec12.pdf)
+13. Lecture 13 - MOS Capacitor - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec13.pdf)
+14. Lecture 14 - MOSFET Device Physics - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec14.pdf)
+15. Lecture 15 - MOSFET IV Relations, Short Channel Effects - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec15.pdf)
 
 # Homeworks
 
