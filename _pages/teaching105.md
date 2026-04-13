@@ -23,6 +23,12 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 13. Lecture 13 - MOS Capacitor - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec13.pdf)
 14. Lecture 14 - MOSFET Device Physics - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec14.pdf)
 15. Lecture 15 - MOSFET IV Relations, Short Channel Effects - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec15.pdf)
+16. Lecture 16 - MOSFET Small Signal Model - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec16.pdf)
+17. Lecture 17 - MOS Amplifiers, Common Source - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec17.pdf)
+18. Lecture 18 - Common Drain, Common Gate - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec18.pdf)
+19. Lecture 19 - MOS Cascode Amplifier - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec19.pdf)
+20. Lecture 20 - Biasing and Current Mirrors - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec20.pdf)
+21. Lecture 21 - Frequency Response, Miller Effect - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec21.pdf)
 
 # Homeworks
 
