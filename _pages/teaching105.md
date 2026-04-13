@@ -38,19 +38,17 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 2. HW 2 - Laplace Transforms and LTI Circuits - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW2.pdf)
 3. HW 3 - RLC Circuits, Op-Amps - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW3.pdf)
 4. HW 4 - Op-Amps, Semiconductor Physics - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW4.pdf)
+5. HW 5 - Semiconductor Physics, PN Junctions - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW5.pdf)
+6. HW 6 - PN Junctions, BJTs - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW6.pdf)
+7. HW 7 - MOSCAPs, MOSFETs - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW7.pdf)
+8. HW 8 - Common Source - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW8.pdf)
+9. HW 9 - Single Stage Amplifiers - [file](https://adityamuppala.github.io/assets/EE_105/HW/EE105_HW9.pdf)
 
 # Labs
 Note: Prelab worksheets are due on Wednesday morning 7:59 AM before the assigned lab. Lab worksheets are due the Tuesday after the assigned lab. 
 See the [Course Plan](https://docs.google.com/spreadsheets/d/1bhgJt2vBqf57tbEGMazgpxgWUwKMMOcNxApGFoNIxrg/edit?usp=sharing) for details on the deadlines. 
 
 **For late submission requests see the Late Submissions section below.**
-
-1. Lab 1 - Electronic Test Equipment, RC Response, Diode IV - [Lab manual](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_Manual_Updated.pdf), [Prelab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_PreLab1_WS.pdf), [Lab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/EE105_Lab1_WS.pdf)
-
-2. Lab 2 - Non-ideal Op-Amps - [Lab manual](https://adityamuppala.github.io/assets/EE_105/Labs/lab2_manual.pdf), [Prelab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/lab2_prelab_WS.pdf), [Lab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/lab2_WS.pdf)
-
-3. Lab 3 - Diodes, Rectifiers, Optical Transceivers - [Lab manual](https://adityamuppala.github.io/assets/EE_105/Labs/lab3_manual.pdf), [Prelab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/lab3_prelab_WS.pdf), [Lab worksheet](https://adityamuppala.github.io/assets/EE_105/Labs/lab3_WS.pdf)
-
 
 # Course Team
 - **Primary Instructor:** Aditya Varma Muppala (muppala@berkeley.edu)
