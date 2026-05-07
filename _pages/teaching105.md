@@ -29,6 +29,12 @@ Will be posted to YouTube into the [EE 105 Spring 2026 Playlist](https://www.you
 19. Lecture 19 - MOS Cascode Amplifier - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec19.pdf)
 20. Lecture 20 - Biasing and Current Mirrors - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec20.pdf)
 21. Lecture 21 - Frequency Response, Miller Effect - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec21.pdf)
+21. Lecture 22 - Open Circuit Time Constant (OCTC) Method - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec22.pdf)
+22. Lecture 23 - OCTC Continued, Common Gate and Cascode - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec23.pdf)
+23. Lecture 24 - Multistage Amplifiers and Design Example - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec24.pdf)
+24. Lecture 25 - Differential Amplifiers - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec25.pdf)
+25. Lecture 26 - Roadmap to Op-Amps - [Notes](https://adityamuppala.github.io/assets/EE_105/Notes/105_Lec26.pdf)
+
 
 # Homeworks
 
