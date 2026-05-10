@@ -31,7 +31,8 @@ author_profile: true
 11. [Oscillator Theory - Injection Locking](https://adityamuppala.github.io/assets/Notes_YouTube/Injection_Locking_YouTube.pdf)
 12. [Oscillator Theory - Adler's Equation Derivation](https://adityamuppala.github.io/assets/Notes_YouTube/Adlers_Equation_YouTube.pdf)
 13. [MOS Varactors](https://adityamuppala.github.io/assets/Notes_YouTube/Varactors_YouTube.pdf)
-
+14. [Frequency Multipliers](https://adityamuppala.github.io/assets/Notes_YouTube/Frequency_Multipliers.pdf)
+    
 ### Antennas & Arrays
 
 1. [Rotman Lens - Theory](https://adityamuppala.github.io/assets/Notes_YouTube/Rotman_Lens_YouTube.pdf)
