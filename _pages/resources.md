@@ -12,6 +12,8 @@ Links to various design files and codes can be found here.
 1. [Cadence Hotkeys](https://adityamuppala.github.io/assets/Notes_YouTube/Cadence_Hotkeys.pdf)
 2. [HFSS Hotkeys and Tips](https://adityamuppala.github.io/assets/Notes_YouTube/HFSS_Hotkeys.pdf)
 3. [TECH File, AMAT File, Excel File and HFSS Layers File](https://drive.google.com/file/d/1t6NSAoJyecMixxWz2D-BhlAQQK7elYIm/view?usp=sharing)
+4. [Spectre RF Documentation](https://drive.google.com/file/d/1-ze2DinEkM1zczHU8jZxFXR8P6zBX49d/view?usp=sharing)
+5. [Spectre RF Documentation 2](https://drive.google.com/file/d/1E2D5hMfJMLQF1CnMOLb4KD10m4tutTT2/view?usp=sharing)
 
 ## Cadence GDS Files
 
