@@ -35,7 +35,7 @@ Hands-on course covering the theory and practice of microwave and wireless measu
 ---
 
 # Labs
-The labs are reserved from 1:00-8:00 PM on Wednesdays and Fridays. Although this is the reserved time, each lab session could vary from 3 hours to 6 hours depending on the number of experiments being performed. Students will form groups of 3 to work through each lab. The groups must remain the same for the duration of the semester, including for the course project. The pre-lab submission for each week's lab will be the notes from the lectures leading up to that lab session. The submission must be made before the start of the lab session. Each lab is accompanied by a set of questions, which the students must turn in as the lab report. A single lab report can be submitted per team. 
+The labs (Cory 119) are reserved from 1:00-8:00 PM on Wednesdays and Fridays. Although this is the reserved time, each lab session could vary from 3 hours to 6 hours depending on the number of experiments being performed. Students will form groups of 3 to work through each lab. The groups must remain the same for the duration of the semester, including for the course project. The pre-lab submission for each week's lab will be the notes from the lectures leading up to that lab session. The submission must be made before the start of the lab session. Each lab is accompanied by a set of questions, which the students must turn in as the lab report. A single lab report can be submitted per team. 
 
 The labs are mandatory and cannot be skipped without loss of grade. If you have a genuine time conflict due to travel/sickness, we can arrange for a make-up lab if you have received prior approval from the instructor. No exceptions will be made if prior approval was not received.
 
