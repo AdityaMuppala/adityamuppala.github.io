@@ -63,11 +63,6 @@ No required textbook.
 
 ---
 
-# Lecture Recordings and Notes
-I will record lectures separately and post them to my [YouTube channel](https://www.youtube.com/@adityavarmamuppala). I prefer this since web capture on a whiteboard does not do a good job. Also, I will post the lecture notes on my website and to bCourses as the course progresses.
-
----
-
 # Homework and Exams
 This course has no homework or exams. The grading is entirely based on lab submissions and the final project as noted below.
 
