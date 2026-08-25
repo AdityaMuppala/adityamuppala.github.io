@@ -37,6 +37,7 @@ For EE 117B, prior enrollment in EE 117 or EE 142 is required and for EE 217B, p
 5. **Antennas:** Antenna concepts; gain, radiation pattern, polarization measurements; mutual scattering; near-field methods.  
 6. **Radar:** Radar systems; FMCW radar; polarimetry; imaging.
 7. **Advanced RF Metrology:** X parameters; spherical near-field measurements.
+
 ---
 
 # Labs
