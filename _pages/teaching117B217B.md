@@ -20,7 +20,12 @@ Class lectures and supplementary lectures will be recorded and posted here as th
 ---
 
 # Course Objectives
-Hands-on course covering the theory and practice of microwave and wireless measurements. Topics include vector network analysis (S-parameters, calibration, TDR, material characterization, signal integrity), spectrum analysis (mixers, VCOs, PLLs, phase noise), noise figure, antenna gain and pattern measurements, communications measurements (modulation, BER, EVM, IQ constellations), and radar (FMCW, ISAR, RCS). Students complete six structured laboratory modules and an open-ended final project integrating these measurement techniques. Off-campus lab visits and demonstration sessions at industry facilities included. For EE 117B, prior enrollment in EE 117 is required and for EE 217B, prior enrollment in EE 210 is recommended.
+Hands-on course covering the theory and practice of microwave and wireless measurements. Topics include vector network analysis (S-parameters, calibration, TDR, material characterization, signal integrity), spectrum analysis (mixers, VCOs, PLLs, phase noise), noise figure, antenna gain and pattern measurements, communications measurements (modulation, BER, EVM, IQ constellations), and radar (FMCW, ISAR, RCS). Students complete six structured laboratory modules and an open-ended final project integrating these measurement techniques. Off-campus lab visits and demonstration sessions at industry facilities included. 
+
+---
+
+# Course Prerequisites
+For EE 117B, prior enrollment in EE 117 or EE 142 is required and for EE 217B, prior enrollment in EE 210 is recommended. Students are expected to have a strong background in the following topics: Linear systems; Fourier Transforms; Transmission lines and Smith charts; Plane waves. No prior knowledge of integrated circuits is needed. The material in this class will be treated at a systems level, with a focus on measurement methods.
 
 ---
 
