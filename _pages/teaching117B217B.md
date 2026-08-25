@@ -41,14 +41,19 @@ The labs are mandatory and cannot be skipped without loss of grade. If you have 
 
 ---
 
+# Course Project
+Each team of 3 students will complete a final project. The scope of the projects is open ended so long as it includes RF measurement techniques covered in the class. Project proposal submission will take place at the end of the first month. The second month is dedicated to any revisions or CAD modeling. The last month is dedicated to the experiments related to the project, during which time there will be no scheduled lab sessions. There is a dedicated budget per project so students can buy the required supplies and equipment needed.
+
+---
+
 # Textbook
 No required textbook.
 
 ---
 
 # Reference Books
-1. D. M. Pozar, Microwave Engineering, 4th ed., Wiley, 2011.
-2. J. P. Dunsmore, Handbook of Microwave Component Measurements: with Advanced VNA Techniques, 2nd ed., Wiley-IEEE Press, 2020.
+1. Pozar, D. M., *Microwave Engineering*, 4th ed. (Wiley, 2011)  
+2. Dunsmore, J. P., *Handbook of Microwave Component Measurements: with Advanced VNA Techniques*, 2nd ed. (Wiley-IEEE Press, 2020)
 
 ---
 
@@ -65,11 +70,7 @@ This course has no homework or exams. The grading is entirely based on lab submi
 # Grading
 There will be no grade drops for any labs.
 
-Score 1 = 20% Notes + 40% HW (including CAD) + 20% Mid-term + 20% Final.
-
-Score 2 = 40% HW (including CAD) + 30% Mid-term + 30% Final.
-
-Final grade = max{Score 1, Score 2}
+10% Prelab (Lecture Notes) + 40% Lab Manual + 50% Course Project.
 
 # Accessibility and Mental Health Resources
 UHS offers mental health services to all UC Berkeley students regardless of insurance plan. Please see: [link](https://uhs.berkeley.edu/student-mental-health).
