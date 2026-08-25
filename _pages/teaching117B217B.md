@@ -13,8 +13,8 @@ Class lectures and supplementary lectures will be recorded and posted here as th
 - **Lectures:** Tue/Thurs, 3:30–5:00 PM at Cory 521  
 - **Lab Section 1:** Wed, 1:00–4:00 PM and 5:00-8:00 PM at Cory 119  
 - **Lab Section 2:** Fri, 1:00–4:00 PM and 5:00-8:00 PM at Cory 119  
+*Note: You must be enrolled in either Lab Section 1 or Lab Section 2.*
 - **Office Hours:** Thurs, 5:00–6:00 PM at Cory 510
-
 - **Teaching Assistants:** San The Vu and Dev Sajnani  
 
 ---
