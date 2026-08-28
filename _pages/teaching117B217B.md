@@ -4,6 +4,7 @@ title: EE 117B/217B - Microwave and Wireless Measurements
 permalink: /teaching117B217B/
 ---
 
+[**Course Plan**](https://docs.google.com/spreadsheets/d/19UNLRggHsJQq3OXZ0gZdeZPeDWy0HD5Tno6TbPf7Frk/edit?usp=sharing)
 
 # Lecture Recordings and Notes
 Class lectures and supplementary lectures will be recorded and posted here as the course progresses.
