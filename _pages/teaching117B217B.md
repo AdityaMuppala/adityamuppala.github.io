@@ -9,6 +9,9 @@ permalink: /teaching117B217B/
 # Lecture Recordings and Notes
 Class lectures and supplementary lectures will be recorded and posted here as the course progresses.
 
+# Lab Manuals 
+1. Lab 1: Introduction to Vector Network Analyzers; VNA Calibration;  Frequency Domain Measurements of Linear Devices (Filter, Isolators, Directional Couplers, Attenuators, Amplifiers); Measuring the Dielectric Constant of Liquids [Lab Manual](https://adityamuppala.github.io/assets/EE117B217B/Lab1_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE117B217B/Lab1_Questionnaire.pdf)
+
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
 - **Lectures:** Tue/Thurs, 3:30–5:00 PM at Cory 521  
