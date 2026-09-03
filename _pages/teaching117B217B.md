@@ -7,7 +7,9 @@ permalink: /teaching117B217B/
 [**Course Plan**](https://docs.google.com/spreadsheets/d/19UNLRggHsJQq3OXZ0gZdeZPeDWy0HD5Tno6TbPf7Frk/edit?usp=sharing)
 
 # Lecture Recordings and Notes
-Class lectures and supplementary lectures will be recorded and posted here as the course progresses.
+The recordings here cover the same material as the lectures but are broken up by topics. See the course plan above for lecture wire breakdown of topics.
+1. MWM01: Course Introduction, S-parameters, RF Passive Components [Notes](https://adityamuppala.github.io/assets/EE_117B217B/MWM01.pdf) [Video](https://www.youtube.com/watch?v=oBzHD6tU_jI)  
+2. MWM02: RF Amplifiers, Gain Definitions, Stability Circles [Notes](https://adityamuppala.github.io/assets/EE_117B217B/MWM02.pdf) [Video](https://www.youtube.com/watch?v=UVk2chXYaRI)
 
 # Lab Manuals 
 
