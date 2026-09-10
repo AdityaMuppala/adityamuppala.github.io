@@ -8,8 +8,10 @@ permalink: /teaching117B217B/
 
 # Lecture Recordings and Notes
 The recordings here cover the same material as the lectures but are broken up by topics. See the course plan above for lecture wise breakdown of topics.
-1. MWM01: Course Introduction, S-parameters, RF Passive Components [Notes](https://adityamuppala.github.io/assets/EE_117B217B/MWM01.pdf) [Video](https://www.youtube.com/watch?v=oBzHD6tU_jI)  
-2. MWM02: RF Amplifiers, Gain Definitions, Stability Circles [Notes](https://adityamuppala.github.io/assets/EE_117B217B/MWM02.pdf) [Video](https://www.youtube.com/watch?v=UVk2chXYaRI)
+1. MWM01: Course Introduction, S-parameters, RF Passive Components [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec1.pdf) [Video](https://www.youtube.com/watch?v=oBzHD6tU_jI)  
+2. MWM02: RF Amplifiers, Gain Definitions, Stability Circles [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec2.pdf) [Video](https://www.youtube.com/watch?v=UVk2chXYaRI)
+3. MWM03: RF Mixers, Balanced Mixing, IQ Mixers, Image Reject / Single Sideband Mixers [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec3.pdf) [Video](https://youtu.be/NNqnASpfHUI)
+4. MWM04: Vector Network Analyzers; Architecture; Harmonic Sampling [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec4.pdf) [Video](https://www.youtube.com/watch?v=UVk2chXYaRI)
 
 # Lab Manuals 
 
