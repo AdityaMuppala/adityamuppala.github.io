@@ -12,6 +12,8 @@ The recordings here cover the same material as the lectures but are broken up by
 2. MWM02: RF Amplifiers, Gain Definitions, Stability Circles [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec2.pdf) [Video](https://www.youtube.com/watch?v=UVk2chXYaRI)
 3. MWM03: RF Mixers, Balanced Mixing, IQ Mixers, Image Reject / Single Sideband Mixers [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec3.pdf) [Video](https://youtu.be/NNqnASpfHUI)
 4. MWM04: Vector Network Analyzers; Architecture; Harmonic Sampling [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec4.pdf) [Video](https://youtu.be/j3dOYxKz_us)
+5. MWM05: VNA Calibration: Signal Flow Graphs; VNA Error Models (3-Term, 12-Term); SOLT Standards [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec5.pdf) [Video](https://youtu.be/icSjHJRpwKM)
+6. MWM06: 8-Term Error Model; TRL (Thru-Reflect-Line) Calibration [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec6.pdf) [Video](https://youtu.be/os-ziKtKmDw)
 
 # Lab Manuals 
 
