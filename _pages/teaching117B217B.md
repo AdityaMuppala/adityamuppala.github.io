@@ -21,6 +21,10 @@ The recordings here cover the same material as the lectures but are broken up by
 
 [Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/VNA_Lab_1_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/VNA_Lab_1_Questionnaire.pdf)
 
+**Lab 2:** Vector Network Analyzer Time Domain Measurements; Time Domain Gating; Thru-Reflect-Line (TRL) Calibration; Time Domain Reflectometry (TDR).
+
+[Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/VNA_Lab_2_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/VNA_Lab_2_Questionnaire.pdf)
+
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
 - **Lectures:** Tue/Thurs, 3:30–5:00 PM at Cory 521  
