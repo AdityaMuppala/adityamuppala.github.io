@@ -25,6 +25,11 @@ The recordings here cover the same material as the lectures but are broken up by
 
 [Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/VNA_Lab_2_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/VNA_Lab_2_Questionnaire.pdf)
 
+**Lab 3:** Spectrum Analyzers; Non-linear Measurements; Total Harmonic Distortion; Gain Compression and P1dB; Intermodulation and IIP3; External mm-wave Harmonic Mixers.
+
+[Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/SA_Lab_1_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/SA_Lab_1_Questionnaire.pdf)
+
+
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
 - **Lectures:** Tue/Thurs, 3:30–5:00 PM at Cory 521  
