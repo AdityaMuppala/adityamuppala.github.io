@@ -14,6 +14,9 @@ The recordings here cover the same material as the lectures but are broken up by
 4. MWM04: Vector Network Analyzers; Architecture; Harmonic Sampling [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec4.pdf) [Video](https://youtu.be/j3dOYxKz_us)
 5. MWM05: VNA Calibration: Signal Flow Graphs; VNA Error Models (3-Term, 12-Term); SOLT Standards [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec5.pdf) [Video](https://youtu.be/icSjHJRpwKM)
 6. MWM06: 8-Term Error Model; TRL (Thru-Reflect-Line) Calibration [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec6.pdf) [Video](https://youtu.be/os-ziKtKmDw)
+7. MWM07: VNA Time Domain; Lowpass/Bandpass Impulse/Step Modes; Time Domain Reflectometry; Time Gating [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec7.pdf) [Video](https://youtu.be/fictccPdU2Y)
+8. MWM08: Spectrum Analyzers; Architecture; RBW/VBW; External Harmonic Mixers and Sig-ID [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec8.pdf) [Video](https://youtu.be/w705YW4YF6I)
+9. MWM09: Non-linear Systems; Harmonic Distortion; Gain Compression; Intermodulation; Volterra Series [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec9.pdf) [Video](https://youtu.be/3-JFS1EIaE0)
 
 # Lab Manuals 
 
