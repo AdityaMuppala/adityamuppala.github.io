@@ -17,6 +17,9 @@ The recordings here cover the same material as the lectures but are broken up by
 7. MWM07: VNA Time Domain; Lowpass/Bandpass Impulse/Step Modes; Time Domain Reflectometry; Time Gating [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec7.pdf) [Video](https://youtu.be/fictccPdU2Y)
 8. MWM08: Spectrum Analyzers; Architecture; RBW/VBW; External Harmonic Mixers and Sig-ID [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec8.pdf) [Video](https://youtu.be/w705YW4YF6I)
 9. MWM09: Non-linear Systems; Harmonic Distortion; Gain Compression; Intermodulation; Volterra Series [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec9.pdf) [Video](https://youtu.be/3-JFS1EIaE0)
+10. MWM10: Noise: Random Variable and Random Process Statistics; Thermal Noise; Derivation of 4kTR [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec10.pdf) [Video](https://youtu.be/twpwtaPn_Ik)
+11. MWM11: Noise Figure and Temperature; Cascaded System Noise; Noise Parameters; Noise Circles [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec11.pdf) [Video](https://youtu.be/6aZdwo2cVFk)
+12. MWM12: Noise Waves, Bosma's Theorem; Mixer SSB/DSB NF; NF Measurements: Y-Factor, Gain Methods [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec12.pdf) [Video](https://youtu.be/A-44Fj8Hsik)
 
 # Lab Manuals 
 
