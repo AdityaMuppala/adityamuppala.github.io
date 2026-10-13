@@ -20,6 +20,8 @@ The recordings here cover the same material as the lectures but are broken up by
 10. MWM10: Noise: Random Variable and Random Process Statistics; Thermal Noise; Derivation of 4kTR [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec10.pdf) [Video](https://youtu.be/twpwtaPn_Ik)
 11. MWM11: Noise Figure and Temperature; Cascaded System Noise; Noise Parameters; Noise Circles [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec11.pdf) [Video](https://youtu.be/6aZdwo2cVFk)
 12. MWM12: Noise Waves, Bosma's Theorem; Mixer SSB/DSB NF; NF Measurements: Y-Factor, Gain Methods [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec12.pdf) [Video](https://youtu.be/A-44Fj8Hsik)
+13. MWM13: Phase Noise: Limit Cycles, Impulse Sensitivity Function (ISF) Model [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec13.pdf) [Video](https://youtu.be/EeGvd1MOyl0)
+14. MWM14: Phase Locked Loops; Type I/II/III PLL; Adler's Eq, Non-linear Analysis, Cycle Slipping [Notes](https://adityamuppala.github.io/assets/EE_117B217B/EE117B217B_Lec14.pdf) [Video](https://youtu.be/rMkFtZ_EPew)
 
 # Lab Manuals 
 
