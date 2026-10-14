@@ -37,6 +37,9 @@ The recordings here cover the same material as the lectures but are broken up by
 
 [Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/SA_Lab_1_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/SA_Lab_1_Questionnaire.pdf)
 
+**Lab 4:** Noise Figure: Y-factor and Gain Methods; Noise Figure of Cascaded Systems; VCO Phase Noise; PLL Acquisition Ranges and Cycle Slipping; PLL Phase Noise
+
+[Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/NoisePLL_Lab_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/NoisePLL_Lab_Questionnaire.pdf)
 
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
