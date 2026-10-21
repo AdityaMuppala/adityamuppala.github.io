@@ -41,6 +41,10 @@ The recordings here cover the same material as the lectures but are broken up by
 
 [Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/NoisePLL_Lab_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/NoisePLL_Lab_Questionnaire.pdf)
 
+**Lab 5:** AM and FM Modulation and Demodulation, Modulation Index Measurements; IQ Demodulation of 16QAM, 64QAM and 256 QAM; Constellation Diagrams, Vector Diagrams, and Eye Diagrams.
+
+[Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/Comms_Lab_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/Comms_Lab_Questionnaire.pdf)
+
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
 - **Lectures:** Tue/Thurs, 3:30–5:00 PM at Cory 521  
