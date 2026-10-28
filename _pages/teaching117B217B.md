@@ -45,6 +45,10 @@ The recordings here cover the same material as the lectures but are broken up by
 
 [Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/Comms_Lab_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/Comms_Lab_Questionnaire.pdf)
 
+**Lab 5:** Antenna Measurements: Gain Using Three Antenna Method, Twin Antenna Method and Image Method; Radiation Patterns in E and H planes (co and cross pol); CATR measurements of gain and 2D radiation pattern.
+
+[Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/Antennas_Lab_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/Antennas_Lab_Questionnaire.pdf)
+
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
 - **Lectures:** Tue/Thurs, 3:30–5:00 PM at Cory 521  
