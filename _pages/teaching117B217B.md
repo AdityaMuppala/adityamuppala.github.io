@@ -49,6 +49,10 @@ The recordings here cover the same material as the lectures but are broken up by
 
 [Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/Antennas_Lab_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/Antennas_Lab_Questionnaire.pdf)
 
+**Lab 7:** Radar Measurements: Frequency Modulated Continuous Wave (FMCW) Radar; Building an FMCW radar system; Range map and Range-Doppler processing.
+
+[Lab Manual](https://adityamuppala.github.io/assets/EE_117B217B/Radar_Lab_Manual.pdf) [Lab Questionnaire](https://adityamuppala.github.io/assets/EE_117B217B/Radar_Lab_Questionnaire.pdf)
+
 # Course Information
 - **Instructor:** Aditya Varma Muppala  
 - **Lectures:** Tue/Thurs, 3:30–5:00 PM at Cory 521  
